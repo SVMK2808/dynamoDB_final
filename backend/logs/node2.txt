@@ -1,0 +1,1583 @@
+[2025-11-21 18:47:18] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:18] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:18] GOSSIP: Checking member statuses
+[2025-11-21 18:47:18] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:18] GOSSIP: Node node4 is ALIVE (last seen 290.054541ms ago)
+[2025-11-21 18:47:18] GOSSIP: Node node3 is ALIVE (last seen 288.633875ms ago)
+[2025-11-21 18:47:18] GOSSIP: Node node3 heartbeat increased: 357306 -> 357308
+[2025-11-21 18:47:18] GOSSIP: Node node1 is ALIVE (last seen -2.298625ms ago)
+[2025-11-21 18:47:18] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:18] CLUSTER: Self status: alive
+[2025-11-21 18:47:18] CLUSTER: Node node4: Status=alive, LastSeen=1.029208ms ago, Heartbeat=357305
+[2025-11-21 18:47:18] CLUSTER: Node node3: Status=alive, LastSeen=6.132334ms ago, Heartbeat=357308
+[2025-11-21 18:47:18] CLUSTER: Node node1: Status=alive, LastSeen=7.006292ms ago, Heartbeat=0
+[2025-11-21 18:47:18] CLUSTER: ================================================
+[2025-11-21 18:47:18] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:18] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:18] GOSSIP: Node node4 heartbeat increased: 357299 -> 357306
+[2025-11-21 18:47:18] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:18] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:18] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:18] GOSSIP: Node node3 heartbeat increased: 357308 -> 357309
+[2025-11-21 18:47:19] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:19] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:19] GOSSIP: Node node4 heartbeat increased: 357300 -> 357307
+[2025-11-21 18:47:19] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:19] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:19] GOSSIP: Checking member statuses
+[2025-11-21 18:47:19] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:19] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:19] GOSSIP: Node node4 is ALIVE (last seen 304.006458ms ago)
+[2025-11-21 18:47:19] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:19] GOSSIP: Node node3 is ALIVE (last seen 303.555292ms ago)
+[2025-11-21 18:47:19] GOSSIP: Node node1 is ALIVE (last seen 303.557167ms ago)
+[2025-11-21 18:47:19] GOSSIP: Node node3 heartbeat increased: 357309 -> 357310
+[2025-11-21 18:47:19] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:19] CLUSTER: Self status: alive
+[2025-11-21 18:47:19] CLUSTER: Node node4: Status=alive, LastSeen=609.417µs ago, Heartbeat=357307
+[2025-11-21 18:47:19] CLUSTER: Node node3: Status=alive, LastSeen=4.097208ms ago, Heartbeat=357310
+[2025-11-21 18:47:19] CLUSTER: Node node1: Status=alive, LastSeen=3.961ms ago, Heartbeat=0
+[2025-11-21 18:47:19] CLUSTER: ================================================
+[2025-11-21 18:47:19] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:19] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:19] GOSSIP: Node node4 heartbeat increased: 357301 -> 357308
+[2025-11-21 18:47:19] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:19] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:19] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:20] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:20] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:20] GOSSIP: Checking member statuses
+[2025-11-21 18:47:20] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:20] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:20] GOSSIP: Node node4 is SUSPECTED down (last seen 3.499963625s ago)
+[2025-11-21 18:47:20] GOSSIP: Node node3 heartbeat increased: 357310 -> 357312
+[2025-11-21 18:47:20] GOSSIP: Node node3 is ALIVE (last seen -350µs ago)
+[2025-11-21 18:47:20] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:20] GOSSIP: Node node1 is ALIVE (last seen 497.727833ms ago)
+[2025-11-21 18:47:20] GOSSIP: Node node4 heartbeat increased: 357302 -> 357309
+[2025-11-21 18:47:20] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:20] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:20] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:20] CLUSTER: Self status: alive
+[2025-11-21 18:47:20] CLUSTER: Node node4: Status=alive, LastSeen=1.489375ms ago, Heartbeat=357309
+[2025-11-21 18:47:20] CLUSTER: Node node3: Status=alive, LastSeen=1.984167ms ago, Heartbeat=357312
+[2025-11-21 18:47:20] CLUSTER: Node node1: Status=alive, LastSeen=1.83775ms ago, Heartbeat=0
+[2025-11-21 18:47:20] CLUSTER: ================================================
+[2025-11-21 18:47:20] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:20] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:20] GOSSIP: Node node3 heartbeat increased: 357312 -> 357313
+[2025-11-21 18:47:20] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:20] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:20] GOSSIP: Node node4 heartbeat increased: 357305 -> 357310
+[2025-11-21 18:47:20] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:21] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:21] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:21] GOSSIP: Node node4 heartbeat increased: 357305 -> 357311
+[2025-11-21 18:47:21] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:21] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:21] GOSSIP: Checking member statuses
+[2025-11-21 18:47:21] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:21] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:21] ANTI_ENTROPY: Running scheduled anti-entropy sync
+[2025-11-21 18:47:21] ANTI_ENTROPY: Starting anti-entropy with peers: [node1 node3 node4 node2]
+[2025-11-21 18:47:21] GOSSIP: Node node4 is ALIVE (last seen 306.112084ms ago)
+[2025-11-21 18:47:21] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:21] ANTI_ENTROPY: Direct syncing with peer node1
+[2025-11-21 18:47:21] GOSSIP: Node node3 is ALIVE (last seen 305.623042ms ago)
+[2025-11-21 18:47:21] ANTI_ENTROPY: Starting direct sync with node node1
+[2025-11-21 18:47:21] ANTI_ENTROPY: Directly syncing 0 keys with node1
+[2025-11-21 18:47:21] GOSSIP: Node node1 is ALIVE (last seen 305.625584ms ago)
+[2025-11-21 18:47:21] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node1
+[2025-11-21 18:47:21] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:21] ANTI_ENTROPY: Direct syncing with peer node3
+[2025-11-21 18:47:21] CLUSTER: Self status: alive
+[2025-11-21 18:47:21] ANTI_ENTROPY: Starting direct sync with node node3
+[2025-11-21 18:47:21] CLUSTER: Node node4: Status=alive, LastSeen=1.9945ms ago, Heartbeat=357311
+[2025-11-21 18:47:21] ANTI_ENTROPY: Directly syncing 0 keys with node3
+[2025-11-21 18:47:21] CLUSTER: Node node3: Status=alive, LastSeen=2.299958ms ago, Heartbeat=357313
+[2025-11-21 18:47:21] CLUSTER: Node node1: Status=alive, LastSeen=7.264416ms ago, Heartbeat=0
+[2025-11-21 18:47:21] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node3
+[2025-11-21 18:47:21] CLUSTER: ================================================
+[2025-11-21 18:47:21] ANTI_ENTROPY: Direct syncing with peer node4
+[2025-11-21 18:47:21] ANTI_ENTROPY: Starting direct sync with node node4
+[2025-11-21 18:47:21] ANTI_ENTROPY: Directly syncing 0 keys with node4
+[2025-11-21 18:47:21] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node4
+[2025-11-21 18:47:21] ANTI_ENTROPY: Completed anti-entropy cycle
+[2025-11-21 18:47:21] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:21] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:21] GOSSIP: Node node4 heartbeat increased: 357305 -> 357312
+[2025-11-21 18:47:21] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:21] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:21] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:21] GOSSIP: Node node3 heartbeat increased: 357313 -> 357315
+[2025-11-21 18:47:22] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:22] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:22] GOSSIP: Node node4 heartbeat increased: 357306 -> 357313
+[2025-11-21 18:47:22] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:22] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:22] GOSSIP: Checking member statuses
+[2025-11-21 18:47:22] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:22] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:22] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:22] GOSSIP: Node node4 is ALIVE (last seen 304.833667ms ago)
+[2025-11-21 18:47:22] GOSSIP: Node node3 is ALIVE (last seen 304.083125ms ago)
+[2025-11-21 18:47:22] GOSSIP: Node node1 is ALIVE (last seen 304.081333ms ago)
+[2025-11-21 18:47:22] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:22] CLUSTER: Self status: alive
+[2025-11-21 18:47:22] CLUSTER: Node node4: Status=alive, LastSeen=307.923625ms ago, Heartbeat=357313
+[2025-11-21 18:47:22] CLUSTER: Node node3: Status=alive, LastSeen=2.556292ms ago, Heartbeat=357315
+[2025-11-21 18:47:22] CLUSTER: Node node1: Status=alive, LastSeen=2.971292ms ago, Heartbeat=0
+[2025-11-21 18:47:22] CLUSTER: ================================================
+[2025-11-21 18:47:22] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:22] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:22] GOSSIP: Node node4 heartbeat increased: 357307 -> 357314
+[2025-11-21 18:47:22] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:22] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:22] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:23] GOSSIP: Node node4 heartbeat increased: 357314 -> 357315
+[2025-11-21 18:47:23] GOSSIP: Checking member statuses
+[2025-11-21 18:47:23] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:23] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:23] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:23] GOSSIP: Node node4 is ALIVE (last seen 307.603583ms ago)
+[2025-11-21 18:47:23] GOSSIP: Node node3 is ALIVE (last seen 306.280583ms ago)
+[2025-11-21 18:47:23] GOSSIP: Node node1 is ALIVE (last seen 306.27925ms ago)
+[2025-11-21 18:47:23] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:23] CLUSTER: Self status: alive
+[2025-11-21 18:47:23] CLUSTER: Node node4: Status=alive, LastSeen=311.215583ms ago, Heartbeat=357315
+[2025-11-21 18:47:23] CLUSTER: Node node3: Status=alive, LastSeen=310.541375ms ago, Heartbeat=357315
+[2025-11-21 18:47:23] CLUSTER: Node node1: Status=alive, LastSeen=310.857917ms ago, Heartbeat=0
+[2025-11-21 18:47:23] CLUSTER: ================================================
+[2025-11-21 18:47:23] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:23] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:23] GOSSIP: Node node4 heartbeat increased: 357309 -> 357316
+[2025-11-21 18:47:23] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:23] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:23] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:24] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:24] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:24] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:24] GOSSIP: Node node4 heartbeat increased: 357310 -> 357317
+[2025-11-21 18:47:24] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:24] GOSSIP: Checking member statuses
+[2025-11-21 18:47:24] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:24] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:24] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:24] GOSSIP: Node node4 is ALIVE (last seen 312.1805ms ago)
+[2025-11-21 18:47:24] GOSSIP: Node node3 is ALIVE (last seen 311.102958ms ago)
+[2025-11-21 18:47:24] GOSSIP: Node node1 is ALIVE (last seen 311.101458ms ago)
+[2025-11-21 18:47:24] GOSSIP: Node node3 heartbeat increased: 357315 -> 357320
+[2025-11-21 18:47:24] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:24] CLUSTER: Self status: alive
+[2025-11-21 18:47:24] CLUSTER: Node node4: Status=alive, LastSeen=743.834µs ago, Heartbeat=357317
+[2025-11-21 18:47:24] CLUSTER: Node node3: Status=alive, LastSeen=2.170875ms ago, Heartbeat=357320
+[2025-11-21 18:47:24] CLUSTER: Node node1: Status=alive, LastSeen=1.371375ms ago, Heartbeat=0
+[2025-11-21 18:47:24] CLUSTER: ================================================
+[2025-11-21 18:47:24] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:24] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:24] GOSSIP: Node node4 heartbeat increased: 357311 -> 357318
+[2025-11-21 18:47:24] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:24] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:24] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:24] GOSSIP: Node node3 heartbeat increased: 357320 -> 357321
+[2025-11-21 18:47:25] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:25] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:25] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:25] GOSSIP: Node node4 heartbeat increased: 357312 -> 357319
+[2025-11-21 18:47:25] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:25] GOSSIP: Checking member statuses
+[2025-11-21 18:47:25] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:25] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:25] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:25] GOSSIP: Node node4 is ALIVE (last seen 302.14575ms ago)
+[2025-11-21 18:47:25] GOSSIP: Node node3 is ALIVE (last seen 300.914833ms ago)
+[2025-11-21 18:47:25] GOSSIP: Node node1 is ALIVE (last seen 300.916833ms ago)
+[2025-11-21 18:47:25] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:25] CLUSTER: Self status: alive
+[2025-11-21 18:47:25] CLUSTER: Node node4: Status=alive, LastSeen=304.749792ms ago, Heartbeat=357319
+[2025-11-21 18:47:25] CLUSTER: Node node3: Status=alive, LastSeen=202.333µs ago, Heartbeat=357321
+[2025-11-21 18:47:25] CLUSTER: Node node1: Status=alive, LastSeen=485.959µs ago, Heartbeat=0
+[2025-11-21 18:47:25] CLUSTER: ================================================
+[2025-11-21 18:47:25] GOSSIP: Node node4 heartbeat increased: 357319 -> 357320
+[2025-11-21 18:47:25] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:25] GOSSIP: Node node3 heartbeat increased: 357321 -> 357323
+[2025-11-21 18:47:26] GOSSIP: Node node4 heartbeat increased: 357320 -> 357321
+[2025-11-21 18:47:26] GOSSIP: Checking member statuses
+[2025-11-21 18:47:26] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:26] GOSSIP: Node node3 heartbeat increased: 357323 -> 357324
+[2025-11-21 18:47:26] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:26] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:26] ANTI_ENTROPY: Running scheduled anti-entropy sync
+[2025-11-21 18:47:26] GOSSIP: Node node4 is ALIVE (last seen -666.959µs ago)
+[2025-11-21 18:47:26] ANTI_ENTROPY: Starting anti-entropy with peers: [node3 node4 node2 node1]
+[2025-11-21 18:47:26] GOSSIP: Node node3 is ALIVE (last seen 245.75µs ago)
+[2025-11-21 18:47:26] GOSSIP: Node node1 is ALIVE (last seen -664.375µs ago)
+[2025-11-21 18:47:26] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:26] ANTI_ENTROPY: Direct syncing with peer node3
+[2025-11-21 18:47:26] CLUSTER: Self status: alive
+[2025-11-21 18:47:26] ANTI_ENTROPY: Starting direct sync with node node3
+[2025-11-21 18:47:26] CLUSTER: Node node4: Status=alive, LastSeen=3.983583ms ago, Heartbeat=357321
+[2025-11-21 18:47:26] CLUSTER: Node node3: Status=alive, LastSeen=5.150042ms ago, Heartbeat=357324
+[2025-11-21 18:47:26] ANTI_ENTROPY: Directly syncing 0 keys with node3
+[2025-11-21 18:47:26] CLUSTER: Node node1: Status=alive, LastSeen=4.500959ms ago, Heartbeat=0
+[2025-11-21 18:47:26] CLUSTER: ================================================
+[2025-11-21 18:47:26] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node3
+[2025-11-21 18:47:26] ANTI_ENTROPY: Direct syncing with peer node4
+[2025-11-21 18:47:26] ANTI_ENTROPY: Starting direct sync with node node4
+[2025-11-21 18:47:26] ANTI_ENTROPY: Directly syncing 0 keys with node4
+[2025-11-21 18:47:26] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node4
+[2025-11-21 18:47:26] ANTI_ENTROPY: Direct syncing with peer node1
+[2025-11-21 18:47:26] ANTI_ENTROPY: Starting direct sync with node node1
+[2025-11-21 18:47:26] ANTI_ENTROPY: Directly syncing 0 keys with node1
+[2025-11-21 18:47:26] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node1
+[2025-11-21 18:47:26] ANTI_ENTROPY: Completed anti-entropy cycle
+[2025-11-21 18:47:26] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:26] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:26] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:26] GOSSIP: Node node4 heartbeat increased: 357315 -> 357322
+[2025-11-21 18:47:26] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:26] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:27] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:27] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:27] GOSSIP: Node node4 heartbeat increased: 357316 -> 357323
+[2025-11-21 18:47:27] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:27] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:27] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:27] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:27] GOSSIP: Checking member statuses
+[2025-11-21 18:47:27] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:27] GOSSIP: Node node3 heartbeat increased: 357324 -> 357326
+[2025-11-21 18:47:27] GOSSIP: Node node4 is ALIVE (last seen 304.680416ms ago)
+[2025-11-21 18:47:27] GOSSIP: Node node3 is ALIVE (last seen -1.0975ms ago)
+[2025-11-21 18:47:27] GOSSIP: Node node1 is ALIVE (last seen -1.228084ms ago)
+[2025-11-21 18:47:27] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:27] CLUSTER: Self status: alive
+[2025-11-21 18:47:27] CLUSTER: Node node4: Status=alive, LastSeen=1.941ms ago, Heartbeat=357323
+[2025-11-21 18:47:27] CLUSTER: Node node3: Status=alive, LastSeen=2.354709ms ago, Heartbeat=357326
+[2025-11-21 18:47:27] CLUSTER: Node node1: Status=alive, LastSeen=11.815041ms ago, Heartbeat=0
+[2025-11-21 18:47:27] CLUSTER: ================================================
+[2025-11-21 18:47:27] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:27] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:27] GOSSIP: Node node4 heartbeat increased: 357317 -> 357324
+[2025-11-21 18:47:27] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:27] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:27] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:28] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:28] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:28] GOSSIP: Node node4 heartbeat increased: 357318 -> 357325
+[2025-11-21 18:47:28] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:28] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:28] GOSSIP: Checking member statuses
+[2025-11-21 18:47:28] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:28] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:28] GOSSIP: Node node4 is ALIVE (last seen 306.27375ms ago)
+[2025-11-21 18:47:28] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:28] GOSSIP: Node node3 is ALIVE (last seen 303.409ms ago)
+[2025-11-21 18:47:28] GOSSIP: Node node1 is ALIVE (last seen 303.407666ms ago)
+[2025-11-21 18:47:28] GOSSIP: Node node3 heartbeat increased: 357326 -> 357328
+[2025-11-21 18:47:28] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:28] CLUSTER: Self status: alive
+[2025-11-21 18:47:28] CLUSTER: Node node4: Status=alive, LastSeen=435.417µs ago, Heartbeat=357325
+[2025-11-21 18:47:28] CLUSTER: Node node3: Status=alive, LastSeen=754.709µs ago, Heartbeat=357328
+[2025-11-21 18:47:28] CLUSTER: Node node1: Status=alive, LastSeen=1.075792ms ago, Heartbeat=0
+[2025-11-21 18:47:28] CLUSTER: ================================================
+[2025-11-21 18:47:28] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:28] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:28] GOSSIP: Node node4 heartbeat increased: 357321 -> 357326
+[2025-11-21 18:47:28] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:28] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:28] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:28] GOSSIP: Node node3 heartbeat increased: 357328 -> 357329
+[2025-11-21 18:47:29] GOSSIP: Node node4 heartbeat increased: 357326 -> 357327
+[2025-11-21 18:47:29] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:29] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:29] GOSSIP: Checking member statuses
+[2025-11-21 18:47:29] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:29] GOSSIP: Node node4 is ALIVE (last seen 311.51975ms ago)
+[2025-11-21 18:47:29] GOSSIP: Node node3 is ALIVE (last seen 311.043375ms ago)
+[2025-11-21 18:47:29] GOSSIP: Node node1 is ALIVE (last seen 311.045042ms ago)
+[2025-11-21 18:47:29] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:29] CLUSTER: Self status: alive
+[2025-11-21 18:47:29] CLUSTER: Node node4: Status=alive, LastSeen=1.501125ms ago, Heartbeat=357327
+[2025-11-21 18:47:29] CLUSTER: Node node3: Status=alive, LastSeen=1.807917ms ago, Heartbeat=357329
+[2025-11-21 18:47:29] CLUSTER: Node node1: Status=alive, LastSeen=2.087791ms ago, Heartbeat=0
+[2025-11-21 18:47:29] CLUSTER: ================================================
+[2025-11-21 18:47:29] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:29] GOSSIP: Node node3 heartbeat increased: 357329 -> 357331
+[2025-11-21 18:47:29] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:29] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:29] GOSSIP: Node node4 heartbeat increased: 357321 -> 357328
+[2025-11-21 18:47:29] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:29] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:30] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:30] GOSSIP: Checking member statuses
+[2025-11-21 18:47:30] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:30] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:30] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:30] GOSSIP: Node node4 is SUSPECTED down (last seen 3.498526583s ago)
+[2025-11-21 18:47:30] GOSSIP: Node node3 is ALIVE (last seen 500.96725ms ago)
+[2025-11-21 18:47:30] GOSSIP: Node node3 heartbeat increased: 357331 -> 357332
+[2025-11-21 18:47:30] GOSSIP: Node node1 is ALIVE (last seen 499.531375ms ago)
+[2025-11-21 18:47:30] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:30] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:30] GOSSIP: Node node4 heartbeat increased: 357322 -> 357329
+[2025-11-21 18:47:30] CLUSTER: Self status: alive
+[2025-11-21 18:47:30] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:30] CLUSTER: Node node4: Status=suspected, LastSeen=7.3925ms ago, Heartbeat=357322
+[2025-11-21 18:47:30] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:30] CLUSTER: Node node3: Status=alive, LastSeen=9.134792ms ago, Heartbeat=357332
+[2025-11-21 18:47:30] CLUSTER: Node node1: Status=alive, LastSeen=265.167µs ago, Heartbeat=0
+[2025-11-21 18:47:30] CLUSTER: ================================================
+[2025-11-21 18:47:30] GOSSIP: Node node4 heartbeat increased: 357329 -> 357330
+[2025-11-21 18:47:30] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:30] GOSSIP: Node node3 heartbeat increased: 357332 -> 357333
+[2025-11-21 18:47:31] GOSSIP: Node node4 heartbeat increased: 357330 -> 357331
+[2025-11-21 18:47:31] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:31] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:31] GOSSIP: Checking member statuses
+[2025-11-21 18:47:31] ANTI_ENTROPY: Running scheduled anti-entropy sync
+[2025-11-21 18:47:31] GOSSIP: Node node3 heartbeat increased: 357333 -> 357334
+[2025-11-21 18:47:31] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:31] GOSSIP: Node node4 is ALIVE (last seen 295.498291ms ago)
+[2025-11-21 18:47:31] ANTI_ENTROPY: Starting anti-entropy with peers: [node2 node1 node3 node4]
+[2025-11-21 18:47:31] GOSSIP: Node node3 is ALIVE (last seen -7.800459ms ago)
+[2025-11-21 18:47:31] ANTI_ENTROPY: Direct syncing with peer node1
+[2025-11-21 18:47:31] GOSSIP: Node node1 is ALIVE (last seen -7.7995ms ago)
+[2025-11-21 18:47:31] ANTI_ENTROPY: Starting direct sync with node node1
+[2025-11-21 18:47:31] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:31] ANTI_ENTROPY: Directly syncing 0 keys with node1
+[2025-11-21 18:47:31] CLUSTER: Self status: alive
+[2025-11-21 18:47:31] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node1
+[2025-11-21 18:47:31] CLUSTER: Node node4: Status=alive, LastSeen=1.534042ms ago, Heartbeat=357331
+[2025-11-21 18:47:31] ANTI_ENTROPY: Direct syncing with peer node3
+[2025-11-21 18:47:31] CLUSTER: Node node3: Status=alive, LastSeen=1.742375ms ago, Heartbeat=357334
+[2025-11-21 18:47:31] ANTI_ENTROPY: Starting direct sync with node node3
+[2025-11-21 18:47:31] CLUSTER: Node node1: Status=alive, LastSeen=1.888ms ago, Heartbeat=0
+[2025-11-21 18:47:31] ANTI_ENTROPY: Directly syncing 0 keys with node3
+[2025-11-21 18:47:31] CLUSTER: ================================================
+[2025-11-21 18:47:31] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node3
+[2025-11-21 18:47:31] ANTI_ENTROPY: Direct syncing with peer node4
+[2025-11-21 18:47:31] ANTI_ENTROPY: Starting direct sync with node node4
+[2025-11-21 18:47:31] ANTI_ENTROPY: Directly syncing 0 keys with node4
+[2025-11-21 18:47:31] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node4
+[2025-11-21 18:47:31] ANTI_ENTROPY: Completed anti-entropy cycle
+[2025-11-21 18:47:31] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:31] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:31] GOSSIP: Node node4 heartbeat increased: 357325 -> 357332
+[2025-11-21 18:47:31] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:31] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:31] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:31] GOSSIP: Node node3 heartbeat increased: 357334 -> 357335
+[2025-11-21 18:47:32] GOSSIP: Node node4 heartbeat increased: 357332 -> 357333
+[2025-11-21 18:47:32] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:32] GOSSIP: Checking member statuses
+[2025-11-21 18:47:32] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:32] GOSSIP: Node node4 is ALIVE (last seen 307.553834ms ago)
+[2025-11-21 18:47:32] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:32] GOSSIP: Node node3 is ALIVE (last seen 307.07ms ago)
+[2025-11-21 18:47:32] GOSSIP: Node node3 heartbeat increased: 357335 -> 357336
+[2025-11-21 18:47:32] GOSSIP: Node node1 is ALIVE (last seen 307.068584ms ago)
+[2025-11-21 18:47:32] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:32] CLUSTER: Self status: alive
+[2025-11-21 18:47:32] CLUSTER: Node node4: Status=alive, LastSeen=1.263291ms ago, Heartbeat=357333
+[2025-11-21 18:47:32] CLUSTER: Node node3: Status=alive, LastSeen=1.947333ms ago, Heartbeat=357336
+[2025-11-21 18:47:32] CLUSTER: Node node1: Status=alive, LastSeen=1.904916ms ago, Heartbeat=0
+[2025-11-21 18:47:32] CLUSTER: ================================================
+[2025-11-21 18:47:32] GOSSIP: Node node4 heartbeat increased: 357333 -> 357334
+[2025-11-21 18:47:32] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:32] GOSSIP: Node node3 heartbeat increased: 357336 -> 357337
+[2025-11-21 18:47:33] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:33] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:33] GOSSIP: Node node4 heartbeat increased: 357328 -> 357335
+[2025-11-21 18:47:33] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:33] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:33] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:33] GOSSIP: Checking member statuses
+[2025-11-21 18:47:33] GOSSIP: Node node3 heartbeat increased: 357337 -> 357338
+[2025-11-21 18:47:33] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:33] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:33] GOSSIP: Node node4 is ALIVE (last seen -531.334µs ago)
+[2025-11-21 18:47:33] GOSSIP: Node node3 is ALIVE (last seen 337.708µs ago)
+[2025-11-21 18:47:33] GOSSIP: Node node1 is ALIVE (last seen -529.834µs ago)
+[2025-11-21 18:47:33] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:33] CLUSTER: Self status: alive
+[2025-11-21 18:47:33] CLUSTER: Node node4: Status=alive, LastSeen=7.017625ms ago, Heartbeat=357335
+[2025-11-21 18:47:33] CLUSTER: Node node3: Status=alive, LastSeen=7.420584ms ago, Heartbeat=357338
+[2025-11-21 18:47:33] CLUSTER: Node node1: Status=alive, LastSeen=7.724167ms ago, Heartbeat=0
+[2025-11-21 18:47:33] CLUSTER: ================================================
+[2025-11-21 18:47:33] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:33] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:33] GOSSIP: Node node4 heartbeat increased: 357331 -> 357336
+[2025-11-21 18:47:33] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:33] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:33] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:34] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:34] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:34] GOSSIP: Node node4 heartbeat increased: 357331 -> 357337
+[2025-11-21 18:47:34] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:34] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:34] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:34] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:34] GOSSIP: Checking member statuses
+[2025-11-21 18:47:34] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:34] GOSSIP: Node node4 is ALIVE (last seen 299.514ms ago)
+[2025-11-21 18:47:34] GOSSIP: Node node3 is ALIVE (last seen 298.860625ms ago)
+[2025-11-21 18:47:34] GOSSIP: Node node1 is ALIVE (last seen 298.859ms ago)
+[2025-11-21 18:47:34] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:34] CLUSTER: Self status: alive
+[2025-11-21 18:47:34] CLUSTER: Node node4: Status=alive, LastSeen=301.068166ms ago, Heartbeat=357337
+[2025-11-21 18:47:34] CLUSTER: Node node3: Status=alive, LastSeen=300.680708ms ago, Heartbeat=357338
+[2025-11-21 18:47:34] CLUSTER: Node node1: Status=alive, LastSeen=300.866375ms ago, Heartbeat=0
+[2025-11-21 18:47:34] CLUSTER: ================================================
+[2025-11-21 18:47:34] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:34] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:34] GOSSIP: Node node4 heartbeat increased: 357331 -> 357338
+[2025-11-21 18:47:34] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:34] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:34] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:34] GOSSIP: Node node3 heartbeat increased: 357338 -> 357341
+[2025-11-21 18:47:35] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:35] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:35] GOSSIP: Node node4 heartbeat increased: 357334 -> 357339
+[2025-11-21 18:47:35] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:35] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:35] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:35] GOSSIP: Checking member statuses
+[2025-11-21 18:47:35] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:35] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:35] GOSSIP: Node node4 is ALIVE (last seen 306.11125ms ago)
+[2025-11-21 18:47:35] GOSSIP: Node node3 is ALIVE (last seen 304.874917ms ago)
+[2025-11-21 18:47:35] GOSSIP: Node node1 is ALIVE (last seen 304.877792ms ago)
+[2025-11-21 18:47:35] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:35] CLUSTER: Self status: alive
+[2025-11-21 18:47:35] CLUSTER: Node node4: Status=alive, LastSeen=321.5795ms ago, Heartbeat=357339
+[2025-11-21 18:47:35] CLUSTER: Node node3: Status=alive, LastSeen=320.503542ms ago, Heartbeat=357341
+[2025-11-21 18:47:35] CLUSTER: Node node1: Status=alive, LastSeen=320.71375ms ago, Heartbeat=0
+[2025-11-21 18:47:35] CLUSTER: ================================================
+[2025-11-21 18:47:35] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:35] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:35] GOSSIP: Node node3 heartbeat increased: 357341 -> 357343
+[2025-11-21 18:47:35] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:35] GOSSIP: Node node4 heartbeat increased: 357334 -> 357340
+[2025-11-21 18:47:35] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:35] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:36] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:36] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:36] GOSSIP: Node node4 heartbeat increased: 357334 -> 357341
+[2025-11-21 18:47:36] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:36] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:36] GOSSIP: Checking member statuses
+[2025-11-21 18:47:36] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:36] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:36] GOSSIP: Node node4 is ALIVE (last seen 305.376ms ago)
+[2025-11-21 18:47:36] ANTI_ENTROPY: Running scheduled anti-entropy sync
+[2025-11-21 18:47:36] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:36] ANTI_ENTROPY: Starting anti-entropy with peers: [node1 node3 node4 node2]
+[2025-11-21 18:47:36] GOSSIP: Node node3 is ALIVE (last seen 304.806625ms ago)
+[2025-11-21 18:47:36] ANTI_ENTROPY: Direct syncing with peer node1
+[2025-11-21 18:47:36] GOSSIP: Node node1 is ALIVE (last seen 304.805166ms ago)
+[2025-11-21 18:47:36] ANTI_ENTROPY: Starting direct sync with node node1
+[2025-11-21 18:47:36] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:36] CLUSTER: Self status: alive
+[2025-11-21 18:47:36] ANTI_ENTROPY: Directly syncing 0 keys with node1
+[2025-11-21 18:47:36] CLUSTER: Node node4: Status=alive, LastSeen=8.463291ms ago, Heartbeat=357341
+[2025-11-21 18:47:36] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node1
+[2025-11-21 18:47:36] CLUSTER: Node node3: Status=alive, LastSeen=8.758125ms ago, Heartbeat=357343
+[2025-11-21 18:47:36] ANTI_ENTROPY: Direct syncing with peer node3
+[2025-11-21 18:47:36] CLUSTER: Node node1: Status=alive, LastSeen=9.098709ms ago, Heartbeat=0
+[2025-11-21 18:47:36] ANTI_ENTROPY: Starting direct sync with node node3
+[2025-11-21 18:47:36] CLUSTER: ================================================
+[2025-11-21 18:47:36] ANTI_ENTROPY: Directly syncing 0 keys with node3
+[2025-11-21 18:47:36] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node3
+[2025-11-21 18:47:36] ANTI_ENTROPY: Direct syncing with peer node4
+[2025-11-21 18:47:36] ANTI_ENTROPY: Starting direct sync with node node4
+[2025-11-21 18:47:36] ANTI_ENTROPY: Directly syncing 0 keys with node4
+[2025-11-21 18:47:36] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node4
+[2025-11-21 18:47:36] ANTI_ENTROPY: Completed anti-entropy cycle
+[2025-11-21 18:47:36] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:37] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:37] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:37] GOSSIP: Node node4 heartbeat increased: 357336 -> 357343
+[2025-11-21 18:47:37] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:37] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:37] GOSSIP: Checking member statuses
+[2025-11-21 18:47:37] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:37] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:37] GOSSIP: Node node4 is ALIVE (last seen 305.257958ms ago)
+[2025-11-21 18:47:37] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:37] GOSSIP: Node node3 is ALIVE (last seen 304.585917ms ago)
+[2025-11-21 18:47:37] GOSSIP: Node node1 is ALIVE (last seen 304.588667ms ago)
+[2025-11-21 18:47:37] GOSSIP: Node node3 heartbeat increased: 357343 -> 357346
+[2025-11-21 18:47:37] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:37] CLUSTER: Self status: alive
+[2025-11-21 18:47:37] CLUSTER: Node node4: Status=alive, LastSeen=1.478041ms ago, Heartbeat=357343
+[2025-11-21 18:47:37] CLUSTER: Node node3: Status=alive, LastSeen=2.569333ms ago, Heartbeat=357346
+[2025-11-21 18:47:37] CLUSTER: Node node1: Status=alive, LastSeen=2.634667ms ago, Heartbeat=0
+[2025-11-21 18:47:37] CLUSTER: ================================================
+[2025-11-21 18:47:37] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:37] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:37] GOSSIP: Node node3 heartbeat increased: 357346 -> 357347
+[2025-11-21 18:47:37] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:37] GOSSIP: Node node4 heartbeat increased: 357337 -> 357344
+[2025-11-21 18:47:37] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:37] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:38] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:38] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:38] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:38] GOSSIP: Node node4 heartbeat increased: 357338 -> 357345
+[2025-11-21 18:47:38] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:38] GOSSIP: Checking member statuses
+[2025-11-21 18:47:38] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:38] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:38] GOSSIP: Node node4 is ALIVE (last seen 296.124583ms ago)
+[2025-11-21 18:47:38] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:38] GOSSIP: Node node3 is ALIVE (last seen 295.645917ms ago)
+[2025-11-21 18:47:38] GOSSIP: Node node1 is ALIVE (last seen 295.647042ms ago)
+[2025-11-21 18:47:38] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:38] CLUSTER: Self status: alive
+[2025-11-21 18:47:38] CLUSTER: Node node4: Status=alive, LastSeen=316.232125ms ago, Heartbeat=357345
+[2025-11-21 18:47:38] CLUSTER: Node node3: Status=alive, LastSeen=316.383084ms ago, Heartbeat=357347
+[2025-11-21 18:47:38] CLUSTER: Node node1: Status=alive, LastSeen=317.123834ms ago, Heartbeat=0
+[2025-11-21 18:47:38] CLUSTER: ================================================
+[2025-11-21 18:47:38] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:38] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:38] GOSSIP: Node node4 heartbeat increased: 357339 -> 357346
+[2025-11-21 18:47:38] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:38] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:38] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:39] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:39] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:39] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:39] GOSSIP: Node node4 heartbeat increased: 357340 -> 357347
+[2025-11-21 18:47:39] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:39] GOSSIP: Checking member statuses
+[2025-11-21 18:47:39] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:39] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:39] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:39] GOSSIP: Node node4 is ALIVE (last seen 302.154125ms ago)
+[2025-11-21 18:47:39] GOSSIP: Node node3 is ALIVE (last seen 301.248375ms ago)
+[2025-11-21 18:47:39] GOSSIP: Node node1 is ALIVE (last seen 301.250875ms ago)
+[2025-11-21 18:47:39] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:39] CLUSTER: Self status: alive
+[2025-11-21 18:47:39] CLUSTER: Node node4: Status=alive, LastSeen=379µs ago, Heartbeat=357347
+[2025-11-21 18:47:39] CLUSTER: Node node3: Status=alive, LastSeen=683.375µs ago, Heartbeat=357347
+[2025-11-21 18:47:39] CLUSTER: Node node1: Status=alive, LastSeen=975.25µs ago, Heartbeat=0
+[2025-11-21 18:47:39] CLUSTER: ================================================
+[2025-11-21 18:47:39] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:40] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:40] GOSSIP: Checking member statuses
+[2025-11-21 18:47:40] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:40] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:40] GOSSIP: Node node4 is SUSPECTED down (last seen 3.997402083s ago)
+[2025-11-21 18:47:40] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:40] GOSSIP: Node node3 is ALIVE (last seen 484.044458ms ago)
+[2025-11-21 18:47:40] GOSSIP: Node node1 is ALIVE (last seen 484.046833ms ago)
+[2025-11-21 18:47:40] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:40] CLUSTER: Self status: alive
+[2025-11-21 18:47:40] GOSSIP: Node node3 heartbeat increased: 357347 -> 357352
+[2025-11-21 18:47:40] CLUSTER: Node node4: Status=suspected, LastSeen=4.001506083s ago, Heartbeat=357341
+[2025-11-21 18:47:40] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:40] CLUSTER: Node node3: Status=alive, LastSeen=1.623917ms ago, Heartbeat=357352
+[2025-11-21 18:47:40] GOSSIP: Node node4 heartbeat increased: 357341 -> 357349
+[2025-11-21 18:47:40] CLUSTER: Node node1: Status=alive, LastSeen=1.594625ms ago, Heartbeat=0
+[2025-11-21 18:47:40] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:40] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:40] CLUSTER: ================================================
+[2025-11-21 18:47:40] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:40] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:40] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:40] GOSSIP: Node node4 heartbeat increased: 357343 -> 357350
+[2025-11-21 18:47:40] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:40] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:40] GOSSIP: Node node3 heartbeat increased: 357352 -> 357353
+[2025-11-21 18:47:41] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:41] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:41] GOSSIP: Node node4 heartbeat increased: 357344 -> 357351
+[2025-11-21 18:47:41] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:41] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:41] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:41] GOSSIP: Checking member statuses
+[2025-11-21 18:47:41] ANTI_ENTROPY: Running scheduled anti-entropy sync
+[2025-11-21 18:47:41] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:41] ANTI_ENTROPY: Starting anti-entropy with peers: [node1 node3 node4 node2]
+[2025-11-21 18:47:41] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:41] GOSSIP: Node node4 is ALIVE (last seen 305.968708ms ago)
+[2025-11-21 18:47:41] ANTI_ENTROPY: Direct syncing with peer node1
+[2025-11-21 18:47:41] GOSSIP: Node node3 is ALIVE (last seen -12.395333ms ago)
+[2025-11-21 18:47:41] GOSSIP: Node node3 heartbeat increased: 357353 -> 357354
+[2025-11-21 18:47:41] ANTI_ENTROPY: Starting direct sync with node node1
+[2025-11-21 18:47:41] GOSSIP: Node node1 is ALIVE (last seen -12.954375ms ago)
+[2025-11-21 18:47:41] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:41] ANTI_ENTROPY: Directly syncing 0 keys with node1
+[2025-11-21 18:47:41] CLUSTER: Self status: alive
+[2025-11-21 18:47:41] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node1
+[2025-11-21 18:47:41] CLUSTER: Node node4: Status=alive, LastSeen=926.292µs ago, Heartbeat=357351
+[2025-11-21 18:47:41] ANTI_ENTROPY: Direct syncing with peer node3
+[2025-11-21 18:47:41] CLUSTER: Node node3: Status=alive, LastSeen=1.727875ms ago, Heartbeat=357354
+[2025-11-21 18:47:41] ANTI_ENTROPY: Starting direct sync with node node3
+[2025-11-21 18:47:41] CLUSTER: Node node1: Status=alive, LastSeen=1.406542ms ago, Heartbeat=0
+[2025-11-21 18:47:41] ANTI_ENTROPY: Directly syncing 0 keys with node3
+[2025-11-21 18:47:41] CLUSTER: ================================================
+[2025-11-21 18:47:41] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node3
+[2025-11-21 18:47:41] ANTI_ENTROPY: Direct syncing with peer node4
+[2025-11-21 18:47:41] ANTI_ENTROPY: Starting direct sync with node node4
+[2025-11-21 18:47:41] ANTI_ENTROPY: Directly syncing 0 keys with node4
+[2025-11-21 18:47:41] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node4
+[2025-11-21 18:47:41] ANTI_ENTROPY: Completed anti-entropy cycle
+[2025-11-21 18:47:41] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:41] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:41] GOSSIP: Node node3 heartbeat increased: 357354 -> 357355
+[2025-11-21 18:47:41] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:41] GOSSIP: Node node4 heartbeat increased: 357345 -> 357352
+[2025-11-21 18:47:41] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:41] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:42] GOSSIP: Node node4 heartbeat increased: 357352 -> 357353
+[2025-11-21 18:47:42] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:42] GOSSIP: Checking member statuses
+[2025-11-21 18:47:42] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:42] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:42] GOSSIP: Node node4 is ALIVE (last seen 310.468209ms ago)
+[2025-11-21 18:47:42] GOSSIP: Node node3 is ALIVE (last seen 310.152667ms ago)
+[2025-11-21 18:47:42] GOSSIP: Node node1 is ALIVE (last seen 310.154375ms ago)
+[2025-11-21 18:47:42] GOSSIP: Node node3 heartbeat increased: 357355 -> 357356
+[2025-11-21 18:47:42] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:42] CLUSTER: Self status: alive
+[2025-11-21 18:47:42] CLUSTER: Node node4: Status=alive, LastSeen=326.542µs ago, Heartbeat=357353
+[2025-11-21 18:47:42] CLUSTER: Node node3: Status=alive, LastSeen=661.25µs ago, Heartbeat=357356
+[2025-11-21 18:47:42] CLUSTER: Node node1: Status=alive, LastSeen=567.791µs ago, Heartbeat=0
+[2025-11-21 18:47:42] CLUSTER: ================================================
+[2025-11-21 18:47:42] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:42] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:42] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:42] GOSSIP: Node node4 heartbeat increased: 357347 -> 357354
+[2025-11-21 18:47:42] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:42] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:42] GOSSIP: Node node3 heartbeat increased: 357356 -> 357357
+[2025-11-21 18:47:43] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:43] GOSSIP: Checking member statuses
+[2025-11-21 18:47:43] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:43] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:43] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:43] GOSSIP: Node node4 is SUSPECTED down (last seen 3.48338s ago)
+[2025-11-21 18:47:43] GOSSIP: Node node3 is ALIVE (last seen 500.731334ms ago)
+[2025-11-21 18:47:43] GOSSIP: Node node3 heartbeat increased: 357357 -> 357358
+[2025-11-21 18:47:43] GOSSIP: Node node1 is ALIVE (last seen 500.49375ms ago)
+[2025-11-21 18:47:43] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:43] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:43] GOSSIP: Node node4 heartbeat increased: 357347 -> 357355
+[2025-11-21 18:47:43] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:43] CLUSTER: Self status: alive
+[2025-11-21 18:47:43] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:43] CLUSTER: Node node4: Status=suspected, LastSeen=14.390542ms ago, Heartbeat=357355
+[2025-11-21 18:47:43] CLUSTER: Node node3: Status=alive, LastSeen=14.887334ms ago, Heartbeat=357358
+[2025-11-21 18:47:43] CLUSTER: Node node1: Status=alive, LastSeen=15.2235ms ago, Heartbeat=0
+[2025-11-21 18:47:43] CLUSTER: ================================================
+[2025-11-21 18:47:43] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:43] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:43] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:43] GOSSIP: Node node4 heartbeat increased: 357349 -> 357356
+[2025-11-21 18:47:43] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:43] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:43] GOSSIP: Node node3 heartbeat increased: 357358 -> 357359
+[2025-11-21 18:47:44] GOSSIP: Node node4 heartbeat increased: 357356 -> 357357
+[2025-11-21 18:47:44] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:44] GOSSIP: Checking member statuses
+[2025-11-21 18:47:44] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:44] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:44] GOSSIP: Node node4 is ALIVE (last seen 312.168084ms ago)
+[2025-11-21 18:47:44] GOSSIP: Node node3 is ALIVE (last seen 311.518042ms ago)
+[2025-11-21 18:47:44] GOSSIP: Node node1 is ALIVE (last seen 311.516125ms ago)
+[2025-11-21 18:47:44] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:44] CLUSTER: Self status: alive
+[2025-11-21 18:47:44] CLUSTER: Node node4: Status=alive, LastSeen=313.742667ms ago, Heartbeat=357357
+[2025-11-21 18:47:44] CLUSTER: Node node3: Status=alive, LastSeen=313.307083ms ago, Heartbeat=357359
+[2025-11-21 18:47:44] CLUSTER: Node node1: Status=alive, LastSeen=313.499541ms ago, Heartbeat=0
+[2025-11-21 18:47:44] CLUSTER: ================================================
+[2025-11-21 18:47:44] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:44] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:44] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:44] GOSSIP: Node node4 heartbeat increased: 357351 -> 357358
+[2025-11-21 18:47:44] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:44] GOSSIP: Node node3 heartbeat increased: 357359 -> 357361
+[2025-11-21 18:47:44] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:45] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:45] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:45] GOSSIP: Checking member statuses
+[2025-11-21 18:47:45] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:45] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:45] GOSSIP: Node node4 was revived (recent activity detected)
+[2025-11-21 18:47:45] GOSSIP: Node node4 is ALIVE (last seen 2.989951458s ago)
+[2025-11-21 18:47:45] GOSSIP: STATUS CHANGE: Node node4 status changed from suspected to alive
+[2025-11-21 18:47:45] GOSSIP: Node node3 is ALIVE (last seen 496.465791ms ago)
+[2025-11-21 18:47:45] GOSSIP: Node node3 heartbeat increased: 357361 -> 357362
+[2025-11-21 18:47:45] GOSSIP: Node node1 is ALIVE (last seen 496.467375ms ago)
+[2025-11-21 18:47:45] GOSSIP: Node node4 heartbeat increased: 357353 -> 357359
+[2025-11-21 18:47:45] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:45] CLUSTER: Self status: alive
+[2025-11-21 18:47:45] CLUSTER: Node node4: Status=alive, LastSeen=1.165ms ago, Heartbeat=357359
+[2025-11-21 18:47:45] CLUSTER: Node node3: Status=alive, LastSeen=1.4965ms ago, Heartbeat=357362
+[2025-11-21 18:47:45] CLUSTER: Node node1: Status=alive, LastSeen=1.210542ms ago, Heartbeat=0
+[2025-11-21 18:47:45] CLUSTER: ================================================
+[2025-11-21 18:47:45] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:45] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:45] GOSSIP: Node node4 heartbeat increased: 357353 -> 357360
+[2025-11-21 18:47:45] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:45] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:45] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:46] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:46] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:46] GOSSIP: Node node4 heartbeat increased: 357354 -> 357361
+[2025-11-21 18:47:46] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:46] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:46] GOSSIP: Checking member statuses
+[2025-11-21 18:47:46] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:46] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:46] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:46] ANTI_ENTROPY: Running scheduled anti-entropy sync
+[2025-11-21 18:47:46] GOSSIP: Node node4 is ALIVE (last seen 311.618708ms ago)
+[2025-11-21 18:47:46] ANTI_ENTROPY: Starting anti-entropy with peers: [node2 node1 node3 node4]
+[2025-11-21 18:47:46] GOSSIP: Node node3 is ALIVE (last seen 311.129667ms ago)
+[2025-11-21 18:47:46] ANTI_ENTROPY: Direct syncing with peer node1
+[2025-11-21 18:47:46] GOSSIP: Node node3 heartbeat increased: 357362 -> 357364
+[2025-11-21 18:47:46] GOSSIP: Node node1 is ALIVE (last seen 311.131292ms ago)
+[2025-11-21 18:47:46] ANTI_ENTROPY: Starting direct sync with node node1
+[2025-11-21 18:47:46] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:46] ANTI_ENTROPY: Directly syncing 0 keys with node1
+[2025-11-21 18:47:46] CLUSTER: Self status: alive
+[2025-11-21 18:47:46] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node1
+[2025-11-21 18:47:46] CLUSTER: Node node4: Status=alive, LastSeen=1.480625ms ago, Heartbeat=357361
+[2025-11-21 18:47:46] ANTI_ENTROPY: Direct syncing with peer node3
+[2025-11-21 18:47:46] CLUSTER: Node node3: Status=alive, LastSeen=2.389208ms ago, Heartbeat=357364
+[2025-11-21 18:47:46] ANTI_ENTROPY: Starting direct sync with node node3
+[2025-11-21 18:47:46] CLUSTER: Node node1: Status=alive, LastSeen=2.382542ms ago, Heartbeat=0
+[2025-11-21 18:47:46] ANTI_ENTROPY: Directly syncing 0 keys with node3
+[2025-11-21 18:47:46] CLUSTER: ================================================
+[2025-11-21 18:47:46] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node3
+[2025-11-21 18:47:46] ANTI_ENTROPY: Direct syncing with peer node4
+[2025-11-21 18:47:46] ANTI_ENTROPY: Starting direct sync with node node4
+[2025-11-21 18:47:46] ANTI_ENTROPY: Directly syncing 0 keys with node4
+[2025-11-21 18:47:46] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node4
+[2025-11-21 18:47:46] ANTI_ENTROPY: Completed anti-entropy cycle
+[2025-11-21 18:47:46] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:46] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:46] GOSSIP: Node node4 heartbeat increased: 357355 -> 357362
+[2025-11-21 18:47:46] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:46] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:46] GOSSIP: Node node3 heartbeat increased: 357364 -> 357365
+[2025-11-21 18:47:46] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:47] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:47] GOSSIP: Checking member statuses
+[2025-11-21 18:47:47] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:47] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:47] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:47] GOSSIP: Node node4 is SUSPECTED down (last seen 3.305864167s ago)
+[2025-11-21 18:47:47] GOSSIP: Node node3 heartbeat increased: 357365 -> 357366
+[2025-11-21 18:47:47] GOSSIP: Node node3 is ALIVE (last seen -1.595958ms ago)
+[2025-11-21 18:47:47] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:47] GOSSIP: Node node1 is ALIVE (last seen 499.630833ms ago)
+[2025-11-21 18:47:47] GOSSIP: Node node4 heartbeat increased: 357357 -> 357363
+[2025-11-21 18:47:47] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:47] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:47] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:47] CLUSTER: Self status: alive
+[2025-11-21 18:47:47] CLUSTER: Node node4: Status=alive, LastSeen=804.458µs ago, Heartbeat=357363
+[2025-11-21 18:47:47] CLUSTER: Node node3: Status=alive, LastSeen=1.193916ms ago, Heartbeat=357366
+[2025-11-21 18:47:47] CLUSTER: Node node1: Status=alive, LastSeen=1.17975ms ago, Heartbeat=0
+[2025-11-21 18:47:47] CLUSTER: ================================================
+[2025-11-21 18:47:47] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:47] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:47] GOSSIP: Node node4 heartbeat increased: 357357 -> 357364
+[2025-11-21 18:47:47] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:47] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:47] GOSSIP: Node node3 heartbeat increased: 357366 -> 357367
+[2025-11-21 18:47:47] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:48] GOSSIP: Node node4 heartbeat increased: 357364 -> 357365
+[2025-11-21 18:47:48] GOSSIP: Checking member statuses
+[2025-11-21 18:47:48] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:48] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:48] GOSSIP: Node node4 is ALIVE (last seen 313.524875ms ago)
+[2025-11-21 18:47:48] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:48] GOSSIP: Node node3 is ALIVE (last seen 313.086875ms ago)
+[2025-11-21 18:47:48] GOSSIP: Node node3 heartbeat increased: 357367 -> 357368
+[2025-11-21 18:47:48] GOSSIP: Node node1 is ALIVE (last seen 313.088542ms ago)
+[2025-11-21 18:47:48] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:48] CLUSTER: Self status: alive
+[2025-11-21 18:47:48] CLUSTER: Node node4: Status=alive, LastSeen=1.139875ms ago, Heartbeat=357365
+[2025-11-21 18:47:48] CLUSTER: Node node3: Status=alive, LastSeen=1.963833ms ago, Heartbeat=357368
+[2025-11-21 18:47:48] CLUSTER: Node node1: Status=alive, LastSeen=1.80525ms ago, Heartbeat=0
+[2025-11-21 18:47:48] CLUSTER: ================================================
+[2025-11-21 18:47:48] GOSSIP: Node node4 heartbeat increased: 357365 -> 357366
+[2025-11-21 18:47:48] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:49] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:49] GOSSIP: Checking member statuses
+[2025-11-21 18:47:49] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:49] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:49] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:49] GOSSIP: Node node4 is SUSPECTED down (last seen 3.80255875s ago)
+[2025-11-21 18:47:49] GOSSIP: Node node3 is ALIVE (last seen 498.349042ms ago)
+[2025-11-21 18:47:49] GOSSIP: Node node1 is ALIVE (last seen 498.349625ms ago)
+[2025-11-21 18:47:49] GOSSIP: Node node3 heartbeat increased: 357368 -> 357370
+[2025-11-21 18:47:49] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:49] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:49] GOSSIP: Node node4 heartbeat increased: 357360 -> 357367
+[2025-11-21 18:47:49] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:49] CLUSTER: Self status: alive
+[2025-11-21 18:47:49] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:49] CLUSTER: Node node4: Status=suspected, LastSeen=937.75µs ago, Heartbeat=357367
+[2025-11-21 18:47:49] CLUSTER: Node node3: Status=alive, LastSeen=2.187792ms ago, Heartbeat=357370
+[2025-11-21 18:47:49] CLUSTER: Node node1: Status=alive, LastSeen=437.75µs ago, Heartbeat=0
+[2025-11-21 18:47:49] CLUSTER: ================================================
+[2025-11-21 18:47:49] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:49] GOSSIP: Node node3 heartbeat increased: 357370 -> 357371
+[2025-11-21 18:47:49] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:49] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:49] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:49] GOSSIP: Node node4 heartbeat increased: 357361 -> 357368
+[2025-11-21 18:47:49] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:50] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:50] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:50] GOSSIP: Node node4 heartbeat increased: 357362 -> 357369
+[2025-11-21 18:47:50] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:50] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:50] GOSSIP: Checking member statuses
+[2025-11-21 18:47:50] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:50] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:50] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:50] GOSSIP: Node node4 is ALIVE (last seen 302.229708ms ago)
+[2025-11-21 18:47:50] GOSSIP: Node node3 is ALIVE (last seen 301.586208ms ago)
+[2025-11-21 18:47:50] GOSSIP: Node node1 is ALIVE (last seen 301.589333ms ago)
+[2025-11-21 18:47:50] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:50] CLUSTER: Self status: alive
+[2025-11-21 18:47:50] CLUSTER: Node node4: Status=alive, LastSeen=311.322667ms ago, Heartbeat=357369
+[2025-11-21 18:47:50] CLUSTER: Node node3: Status=alive, LastSeen=310.814167ms ago, Heartbeat=357371
+[2025-11-21 18:47:50] GOSSIP: Node node3 heartbeat increased: 357371 -> 357372
+[2025-11-21 18:47:50] CLUSTER: Node node1: Status=alive, LastSeen=310.950583ms ago, Heartbeat=0
+[2025-11-21 18:47:50] CLUSTER: ================================================
+[2025-11-21 18:47:50] GOSSIP: Node node4 heartbeat increased: 357369 -> 357370
+[2025-11-21 18:47:50] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:50] GOSSIP: Node node3 heartbeat increased: 357372 -> 357373
+[2025-11-21 18:47:51] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:51] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:51] GOSSIP: Node node4 heartbeat increased: 357366 -> 357371
+[2025-11-21 18:47:51] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:51] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:51] ANTI_ENTROPY: Running scheduled anti-entropy sync
+[2025-11-21 18:47:51] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:51] GOSSIP: Checking member statuses
+[2025-11-21 18:47:51] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:51] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:51] GOSSIP: Node node4 is ALIVE (last seen 303.360625ms ago)
+[2025-11-21 18:47:51] ANTI_ENTROPY: Starting anti-entropy with peers: [node4 node2 node1 node3]
+[2025-11-21 18:47:51] ANTI_ENTROPY: Direct syncing with peer node4
+[2025-11-21 18:47:51] GOSSIP: Node node3 is ALIVE (last seen 302.622292ms ago)
+[2025-11-21 18:47:51] ANTI_ENTROPY: Starting direct sync with node node4
+[2025-11-21 18:47:51] GOSSIP: Node node1 is ALIVE (last seen 302.625458ms ago)
+[2025-11-21 18:47:51] ANTI_ENTROPY: Directly syncing 0 keys with node4
+[2025-11-21 18:47:51] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:51] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node4
+[2025-11-21 18:47:51] CLUSTER: Self status: alive
+[2025-11-21 18:47:51] ANTI_ENTROPY: Direct syncing with peer node1
+[2025-11-21 18:47:51] CLUSTER: Node node4: Status=alive, LastSeen=313.720708ms ago, Heartbeat=357371
+[2025-11-21 18:47:51] ANTI_ENTROPY: Starting direct sync with node node1
+[2025-11-21 18:47:51] GOSSIP: Node node3 heartbeat increased: 357373 -> 357374
+[2025-11-21 18:47:51] CLUSTER: Node node3: Status=alive, LastSeen=139.916µs ago, Heartbeat=357373
+[2025-11-21 18:47:51] CLUSTER: Node node1: Status=alive, LastSeen=53.041µs ago, Heartbeat=0
+[2025-11-21 18:47:51] ANTI_ENTROPY: Directly syncing 0 keys with node1
+[2025-11-21 18:47:51] CLUSTER: ================================================
+[2025-11-21 18:47:51] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node1
+[2025-11-21 18:47:51] ANTI_ENTROPY: Direct syncing with peer node3
+[2025-11-21 18:47:51] ANTI_ENTROPY: Starting direct sync with node node3
+[2025-11-21 18:47:51] ANTI_ENTROPY: Directly syncing 0 keys with node3
+[2025-11-21 18:47:51] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node3
+[2025-11-21 18:47:51] ANTI_ENTROPY: Completed anti-entropy cycle
+[2025-11-21 18:47:51] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:51] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:51] GOSSIP: Node node3 heartbeat increased: 357374 -> 357375
+[2025-11-21 18:47:51] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:51] GOSSIP: Node node4 heartbeat increased: 357366 -> 357372
+[2025-11-21 18:47:51] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:51] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:52] GOSSIP: Node node4 heartbeat increased: 357372 -> 357373
+[2025-11-21 18:47:52] GOSSIP: Checking member statuses
+[2025-11-21 18:47:52] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:52] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:52] GOSSIP: Node node4 is ALIVE (last seen 303.327958ms ago)
+[2025-11-21 18:47:52] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:52] GOSSIP: Node node3 is ALIVE (last seen 302.748333ms ago)
+[2025-11-21 18:47:52] GOSSIP: Node node3 heartbeat increased: 357375 -> 357376
+[2025-11-21 18:47:52] GOSSIP: Node node1 is ALIVE (last seen 302.749875ms ago)
+[2025-11-21 18:47:52] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:52] CLUSTER: Self status: alive
+[2025-11-21 18:47:52] CLUSTER: Node node4: Status=alive, LastSeen=986.417µs ago, Heartbeat=357373
+[2025-11-21 18:47:52] CLUSTER: Node node3: Status=alive, LastSeen=2.063417ms ago, Heartbeat=357376
+[2025-11-21 18:47:52] CLUSTER: Node node1: Status=alive, LastSeen=1.535042ms ago, Heartbeat=0
+[2025-11-21 18:47:52] CLUSTER: ================================================
+[2025-11-21 18:47:52] GOSSIP: Node node4 heartbeat increased: 357373 -> 357374
+[2025-11-21 18:47:52] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:53] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:53] GOSSIP: Checking member statuses
+[2025-11-21 18:47:53] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:53] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:53] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:53] GOSSIP: Node node4 is SUSPECTED down (last seen 3.510434333s ago)
+[2025-11-21 18:47:53] GOSSIP: Node node3 is ALIVE (last seen 816.74575ms ago)
+[2025-11-21 18:47:53] GOSSIP: Node node1 is ALIVE (last seen 816.749792ms ago)
+[2025-11-21 18:47:53] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:53] CLUSTER: Self status: alive
+[2025-11-21 18:47:53] CLUSTER: Node node4: Status=suspected, LastSeen=279µs ago, Heartbeat=357368
+[2025-11-21 18:47:53] CLUSTER: Node node3: Status=alive, LastSeen=556.125µs ago, Heartbeat=357376
+[2025-11-21 18:47:53] CLUSTER: Node node1: Status=alive, LastSeen=825.25µs ago, Heartbeat=0
+[2025-11-21 18:47:53] CLUSTER: ================================================
+[2025-11-21 18:47:53] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:53] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:53] GOSSIP: Node node4 heartbeat increased: 357370 -> 357376
+[2025-11-21 18:47:53] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:53] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:53] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:54] GOSSIP: Node node4 heartbeat increased: 357376 -> 357377
+[2025-11-21 18:47:54] GOSSIP: Checking member statuses
+[2025-11-21 18:47:54] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:54] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:54] GOSSIP: Node node4 is ALIVE (last seen 305.291958ms ago)
+[2025-11-21 18:47:54] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:54] GOSSIP: Node node3 is ALIVE (last seen 304.692875ms ago)
+[2025-11-21 18:47:54] GOSSIP: Node node1 is ALIVE (last seen 304.695125ms ago)
+[2025-11-21 18:47:54] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:54] CLUSTER: Self status: alive
+[2025-11-21 18:47:54] CLUSTER: Node node4: Status=alive, LastSeen=313.901917ms ago, Heartbeat=357377
+[2025-11-21 18:47:54] CLUSTER: Node node3: Status=alive, LastSeen=165.917µs ago, Heartbeat=357376
+[2025-11-21 18:47:54] CLUSTER: Node node1: Status=alive, LastSeen=392.667µs ago, Heartbeat=0
+[2025-11-21 18:47:54] CLUSTER: ================================================
+[2025-11-21 18:47:54] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:54] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:54] GOSSIP: Node node4 heartbeat increased: 357371 -> 357378
+[2025-11-21 18:47:54] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:54] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:54] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:55] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:55] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:55] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:55] GOSSIP: Checking member statuses
+[2025-11-21 18:47:55] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:55] GOSSIP: Node node3 heartbeat increased: 357376 -> 357382
+[2025-11-21 18:47:55] GOSSIP: Node node4 was revived (recent activity detected)
+[2025-11-21 18:47:55] GOSSIP: Node node4 is ALIVE (last seen 2.809311708s ago)
+[2025-11-21 18:47:55] GOSSIP: Node node4 heartbeat increased: 357374 -> 357379
+[2025-11-21 18:47:55] GOSSIP: STATUS CHANGE: Node node4 status changed from suspected to alive
+[2025-11-21 18:47:55] GOSSIP: Node node3 is ALIVE (last seen -1.352584ms ago)
+[2025-11-21 18:47:55] GOSSIP: Node node1 is ALIVE (last seen -2.733417ms ago)
+[2025-11-21 18:47:55] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:55] CLUSTER: Self status: alive
+[2025-11-21 18:47:55] CLUSTER: Node node4: Status=alive, LastSeen=5.426958ms ago, Heartbeat=357379
+[2025-11-21 18:47:55] CLUSTER: Node node3: Status=alive, LastSeen=7.504583ms ago, Heartbeat=357382
+[2025-11-21 18:47:55] CLUSTER: Node node1: Status=alive, LastSeen=6.539833ms ago, Heartbeat=0
+[2025-11-21 18:47:55] CLUSTER: ================================================
+[2025-11-21 18:47:55] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:55] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:55] GOSSIP: Node node4 heartbeat increased: 357374 -> 357380
+[2025-11-21 18:47:55] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:55] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:55] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:56] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:56] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:56] GOSSIP: Node node4 heartbeat increased: 357374 -> 357381
+[2025-11-21 18:47:56] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:56] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:56] GOSSIP: Checking member statuses
+[2025-11-21 18:47:56] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:56] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:56] GOSSIP: Node node4 is ALIVE (last seen 305.441667ms ago)
+[2025-11-21 18:47:56] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:56] GOSSIP: Node node3 is ALIVE (last seen 304.828208ms ago)
+[2025-11-21 18:47:56] GOSSIP: Node node3 heartbeat increased: 357382 -> 357384
+[2025-11-21 18:47:56] GOSSIP: Node node1 is ALIVE (last seen 304.830042ms ago)
+[2025-11-21 18:47:56] ANTI_ENTROPY: Running scheduled anti-entropy sync
+[2025-11-21 18:47:56] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:56] ANTI_ENTROPY: Starting anti-entropy with peers: [node3 node4 node2 node1]
+[2025-11-21 18:47:56] CLUSTER: Self status: alive
+[2025-11-21 18:47:56] ANTI_ENTROPY: Direct syncing with peer node3
+[2025-11-21 18:47:56] CLUSTER: Node node4: Status=alive, LastSeen=636.792µs ago, Heartbeat=357381
+[2025-11-21 18:47:56] ANTI_ENTROPY: Starting direct sync with node node3
+[2025-11-21 18:47:56] CLUSTER: Node node3: Status=alive, LastSeen=1.155375ms ago, Heartbeat=357384
+[2025-11-21 18:47:56] ANTI_ENTROPY: Directly syncing 0 keys with node3
+[2025-11-21 18:47:56] CLUSTER: Node node1: Status=alive, LastSeen=1.547917ms ago, Heartbeat=0
+[2025-11-21 18:47:56] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node3
+[2025-11-21 18:47:56] CLUSTER: ================================================
+[2025-11-21 18:47:56] ANTI_ENTROPY: Direct syncing with peer node4
+[2025-11-21 18:47:56] ANTI_ENTROPY: Starting direct sync with node node4
+[2025-11-21 18:47:56] ANTI_ENTROPY: Directly syncing 0 keys with node4
+[2025-11-21 18:47:56] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node4
+[2025-11-21 18:47:56] ANTI_ENTROPY: Direct syncing with peer node1
+[2025-11-21 18:47:56] ANTI_ENTROPY: Starting direct sync with node node1
+[2025-11-21 18:47:56] ANTI_ENTROPY: Directly syncing 0 keys with node1
+[2025-11-21 18:47:56] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node1
+[2025-11-21 18:47:56] ANTI_ENTROPY: Completed anti-entropy cycle
+[2025-11-21 18:47:56] GOSSIP: Node node4 heartbeat increased: 357381 -> 357382
+[2025-11-21 18:47:56] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:57] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:57] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:57] GOSSIP: Node node4 heartbeat increased: 357377 -> 357383
+[2025-11-21 18:47:57] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:57] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:57] GOSSIP: Checking member statuses
+[2025-11-21 18:47:57] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:57] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:57] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:57] GOSSIP: Node node4 is ALIVE (last seen 307.780916ms ago)
+[2025-11-21 18:47:57] GOSSIP: Node node3 is ALIVE (last seen 307.33725ms ago)
+[2025-11-21 18:47:57] GOSSIP: Node node1 is ALIVE (last seen 307.338958ms ago)
+[2025-11-21 18:47:57] GOSSIP: Node node3 heartbeat increased: 357384 -> 357386
+[2025-11-21 18:47:57] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:57] CLUSTER: Self status: alive
+[2025-11-21 18:47:57] CLUSTER: Node node4: Status=alive, LastSeen=975.542µs ago, Heartbeat=357383
+[2025-11-21 18:47:57] CLUSTER: Node node3: Status=alive, LastSeen=2.728792ms ago, Heartbeat=357386
+[2025-11-21 18:47:57] CLUSTER: Node node1: Status=alive, LastSeen=1.923625ms ago, Heartbeat=0
+[2025-11-21 18:47:57] CLUSTER: ================================================
+[2025-11-21 18:47:57] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:57] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:57] GOSSIP: Node node3 heartbeat increased: 357386 -> 357387
+[2025-11-21 18:47:57] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:57] GOSSIP: Node node4 heartbeat increased: 357377 -> 357384
+[2025-11-21 18:47:57] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:57] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:58] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:58] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:58] GOSSIP: Node node4 heartbeat increased: 357378 -> 357385
+[2025-11-21 18:47:58] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:58] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:58] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:58] GOSSIP: Checking member statuses
+[2025-11-21 18:47:58] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:58] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:58] GOSSIP: Node node4 is ALIVE (last seen 303.299ms ago)
+[2025-11-21 18:47:58] GOSSIP: Node node3 heartbeat increased: 357387 -> 357388
+[2025-11-21 18:47:58] GOSSIP: Node node3 is ALIVE (last seen -2.147958ms ago)
+[2025-11-21 18:47:58] GOSSIP: Node node1 is ALIVE (last seen -3.488333ms ago)
+[2025-11-21 18:47:58] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:58] CLUSTER: Self status: alive
+[2025-11-21 18:47:58] CLUSTER: Node node4: Status=alive, LastSeen=1.68425ms ago, Heartbeat=357385
+[2025-11-21 18:47:58] CLUSTER: Node node3: Status=alive, LastSeen=2.7305ms ago, Heartbeat=357388
+[2025-11-21 18:47:58] CLUSTER: Node node1: Status=alive, LastSeen=2.764ms ago, Heartbeat=0
+[2025-11-21 18:47:58] CLUSTER: ================================================
+[2025-11-21 18:47:58] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:58] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:58] GOSSIP: Node node4 heartbeat increased: 357379 -> 357386
+[2025-11-21 18:47:58] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:58] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:58] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:59] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:59] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:59] GOSSIP: Node node4 heartbeat increased: 357380 -> 357387
+[2025-11-21 18:47:59] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:59] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:47:59] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:59] GOSSIP: Checking member statuses
+[2025-11-21 18:47:59] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:47:59] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:47:59] GOSSIP: Node node4 is ALIVE (last seen 306.273959ms ago)
+[2025-11-21 18:47:59] GOSSIP: Node node3 heartbeat increased: 357388 -> 357390
+[2025-11-21 18:47:59] GOSSIP: Node node3 is ALIVE (last seen -1.187375ms ago)
+[2025-11-21 18:47:59] GOSSIP: Node node1 is ALIVE (last seen -1.664958ms ago)
+[2025-11-21 18:47:59] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:47:59] CLUSTER: Self status: alive
+[2025-11-21 18:47:59] CLUSTER: Node node4: Status=alive, LastSeen=710.458µs ago, Heartbeat=357387
+[2025-11-21 18:47:59] CLUSTER: Node node3: Status=alive, LastSeen=984.125µs ago, Heartbeat=357390
+[2025-11-21 18:47:59] CLUSTER: Node node1: Status=alive, LastSeen=1.229875ms ago, Heartbeat=0
+[2025-11-21 18:47:59] CLUSTER: ================================================
+[2025-11-21 18:47:59] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:47:59] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:47:59] GOSSIP: Node node3 heartbeat increased: 357390 -> 357391
+[2025-11-21 18:47:59] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:47:59] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:47:59] GOSSIP: Node node4 heartbeat increased: 357382 -> 357388
+[2025-11-21 18:47:59] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:00] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:00] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:00] GOSSIP: Node node4 heartbeat increased: 357382 -> 357389
+[2025-11-21 18:48:00] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:00] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:00] GOSSIP: Checking member statuses
+[2025-11-21 18:48:00] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:00] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:00] GOSSIP: Node node4 is ALIVE (last seen 308.21525ms ago)
+[2025-11-21 18:48:00] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:00] GOSSIP: Node node3 is ALIVE (last seen 307.783875ms ago)
+[2025-11-21 18:48:00] GOSSIP: Node node3 heartbeat increased: 357391 -> 357392
+[2025-11-21 18:48:00] GOSSIP: Node node1 is ALIVE (last seen 307.782667ms ago)
+[2025-11-21 18:48:00] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:00] CLUSTER: Self status: alive
+[2025-11-21 18:48:00] CLUSTER: Node node4: Status=alive, LastSeen=703.042µs ago, Heartbeat=357389
+[2025-11-21 18:48:00] CLUSTER: Node node3: Status=alive, LastSeen=1.406416ms ago, Heartbeat=357392
+[2025-11-21 18:48:00] CLUSTER: Node node1: Status=alive, LastSeen=1.86875ms ago, Heartbeat=0
+[2025-11-21 18:48:00] CLUSTER: ================================================
+[2025-11-21 18:48:00] GOSSIP: Node node4 heartbeat increased: 357389 -> 357390
+[2025-11-21 18:48:00] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:00] GOSSIP: Node node3 heartbeat increased: 357392 -> 357393
+[2025-11-21 18:48:01] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:01] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:01] GOSSIP: Node node4 heartbeat increased: 357384 -> 357391
+[2025-11-21 18:48:01] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:01] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:01] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:01] GOSSIP: Checking member statuses
+[2025-11-21 18:48:01] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:01] GOSSIP: Node node4 is ALIVE (last seen 305.375625ms ago)
+[2025-11-21 18:48:01] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:01] ANTI_ENTROPY: Running scheduled anti-entropy sync
+[2025-11-21 18:48:01] GOSSIP: Node node3 is ALIVE (last seen 299.161541ms ago)
+[2025-11-21 18:48:01] ANTI_ENTROPY: Starting anti-entropy with peers: [node2 node1 node3 node4]
+[2025-11-21 18:48:01] GOSSIP: Node node1 is ALIVE (last seen 299.1635ms ago)
+[2025-11-21 18:48:01] ANTI_ENTROPY: Direct syncing with peer node1
+[2025-11-21 18:48:01] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:01] ANTI_ENTROPY: Starting direct sync with node node1
+[2025-11-21 18:48:01] CLUSTER: Self status: alive
+[2025-11-21 18:48:01] ANTI_ENTROPY: Directly syncing 0 keys with node1
+[2025-11-21 18:48:01] CLUSTER: Node node4: Status=alive, LastSeen=310.356917ms ago, Heartbeat=357391
+[2025-11-21 18:48:01] GOSSIP: Node node3 heartbeat increased: 357393 -> 357394
+[2025-11-21 18:48:01] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node1
+[2025-11-21 18:48:01] CLUSTER: Node node3: Status=alive, LastSeen=98.166µs ago, Heartbeat=357393
+[2025-11-21 18:48:01] CLUSTER: Node node1: Status=alive, LastSeen=411.875µs ago, Heartbeat=0
+[2025-11-21 18:48:01] ANTI_ENTROPY: Direct syncing with peer node3
+[2025-11-21 18:48:01] CLUSTER: ================================================
+[2025-11-21 18:48:01] ANTI_ENTROPY: Starting direct sync with node node3
+[2025-11-21 18:48:01] ANTI_ENTROPY: Directly syncing 0 keys with node3
+[2025-11-21 18:48:01] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node3
+[2025-11-21 18:48:01] ANTI_ENTROPY: Direct syncing with peer node4
+[2025-11-21 18:48:01] ANTI_ENTROPY: Starting direct sync with node node4
+[2025-11-21 18:48:01] ANTI_ENTROPY: Directly syncing 0 keys with node4
+[2025-11-21 18:48:01] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node4
+[2025-11-21 18:48:01] ANTI_ENTROPY: Completed anti-entropy cycle
+[2025-11-21 18:48:01] GOSSIP: Node node4 heartbeat increased: 357391 -> 357392
+[2025-11-21 18:48:01] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:01] GOSSIP: Node node3 heartbeat increased: 357394 -> 357395
+[2025-11-21 18:48:02] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:02] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:02] GOSSIP: Node node4 heartbeat increased: 357386 -> 357393
+[2025-11-21 18:48:02] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:02] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:02] GOSSIP: Checking member statuses
+[2025-11-21 18:48:02] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:02] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:02] GOSSIP: Node node3 heartbeat increased: 357395 -> 357396
+[2025-11-21 18:48:02] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:02] GOSSIP: Node node4 is ALIVE (last seen -1.126209ms ago)
+[2025-11-21 18:48:02] GOSSIP: Node node3 is ALIVE (last seen -659.417µs ago)
+[2025-11-21 18:48:02] GOSSIP: Node node1 is ALIVE (last seen -1.125375ms ago)
+[2025-11-21 18:48:02] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:02] CLUSTER: Self status: alive
+[2025-11-21 18:48:02] CLUSTER: Node node4: Status=alive, LastSeen=31.583µs ago, Heartbeat=357393
+[2025-11-21 18:48:02] CLUSTER: Node node3: Status=alive, LastSeen=287.791µs ago, Heartbeat=357396
+[2025-11-21 18:48:02] CLUSTER: Node node1: Status=alive, LastSeen=516.834µs ago, Heartbeat=0
+[2025-11-21 18:48:02] CLUSTER: ================================================
+[2025-11-21 18:48:02] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:02] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:02] GOSSIP: Node node3 heartbeat increased: 357396 -> 357397
+[2025-11-21 18:48:02] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:02] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:02] GOSSIP: Node node4 heartbeat increased: 357387 -> 357394
+[2025-11-21 18:48:02] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:03] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:03] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:03] GOSSIP: Node node4 heartbeat increased: 357388 -> 357395
+[2025-11-21 18:48:03] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:03] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:03] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:03] GOSSIP: Checking member statuses
+[2025-11-21 18:48:03] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:03] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:03] GOSSIP: Node node4 is ALIVE (last seen 318.874708ms ago)
+[2025-11-21 18:48:03] GOSSIP: Node node3 is ALIVE (last seen 318.029042ms ago)
+[2025-11-21 18:48:03] GOSSIP: Node node1 is ALIVE (last seen -2.194958ms ago)
+[2025-11-21 18:48:03] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:03] CLUSTER: Self status: alive
+[2025-11-21 18:48:03] CLUSTER: Node node4: Status=alive, LastSeen=723.417µs ago, Heartbeat=357395
+[2025-11-21 18:48:03] CLUSTER: Node node3: Status=alive, LastSeen=942.959µs ago, Heartbeat=357397
+[2025-11-21 18:48:03] CLUSTER: Node node1: Status=alive, LastSeen=1.907208ms ago, Heartbeat=0
+[2025-11-21 18:48:03] CLUSTER: ================================================
+[2025-11-21 18:48:03] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:03] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:03] GOSSIP: Node node4 heartbeat increased: 357390 -> 357396
+[2025-11-21 18:48:03] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:03] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:03] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:03] GOSSIP: Node node3 heartbeat increased: 357397 -> 357399
+[2025-11-21 18:48:04] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:04] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:04] GOSSIP: Node node4 heartbeat increased: 357390 -> 357397
+[2025-11-21 18:48:04] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:04] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:04] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:04] GOSSIP: Checking member statuses
+[2025-11-21 18:48:04] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:04] GOSSIP: Node node4 is ALIVE (last seen 293.009667ms ago)
+[2025-11-21 18:48:04] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:04] GOSSIP: Node node3 is ALIVE (last seen 292.518417ms ago)
+[2025-11-21 18:48:04] GOSSIP: Node node1 is ALIVE (last seen 292.51925ms ago)
+[2025-11-21 18:48:04] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:04] CLUSTER: Self status: alive
+[2025-11-21 18:48:04] GOSSIP: Node node3 heartbeat increased: 357399 -> 357400
+[2025-11-21 18:48:04] CLUSTER: Node node4: Status=alive, LastSeen=256µs ago, Heartbeat=357397
+[2025-11-21 18:48:04] CLUSTER: Node node3: Status=alive, LastSeen=575.25µs ago, Heartbeat=357400
+[2025-11-21 18:48:04] CLUSTER: Node node1: Status=alive, LastSeen=467.625µs ago, Heartbeat=0
+[2025-11-21 18:48:04] CLUSTER: ================================================
+[2025-11-21 18:48:04] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:04] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:04] GOSSIP: Node node3 heartbeat increased: 357400 -> 357401
+[2025-11-21 18:48:04] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:04] GOSSIP: Node node4 heartbeat increased: 357392 -> 357398
+[2025-11-21 18:48:04] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:04] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:05] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:05] GOSSIP: Checking member statuses
+[2025-11-21 18:48:05] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:05] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:05] GOSSIP: Node node4 is SUSPECTED down (last seen 3.489776667s ago)
+[2025-11-21 18:48:05] GOSSIP: Node node3 is ALIVE (last seen 499.132ms ago)
+[2025-11-21 18:48:05] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:05] GOSSIP: Node node1 is ALIVE (last seen 498.598333ms ago)
+[2025-11-21 18:48:05] GOSSIP: Node node3 heartbeat increased: 357401 -> 357402
+[2025-11-21 18:48:05] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:05] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:05] CLUSTER: Self status: alive
+[2025-11-21 18:48:05] GOSSIP: Node node4 heartbeat increased: 357392 -> 357399
+[2025-11-21 18:48:05] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:05] CLUSTER: Node node4: Status=suspected, LastSeen=117.166µs ago, Heartbeat=357392
+[2025-11-21 18:48:05] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:05] CLUSTER: Node node3: Status=alive, LastSeen=904.625µs ago, Heartbeat=357402
+[2025-11-21 18:48:05] CLUSTER: Node node1: Status=alive, LastSeen=9.454917ms ago, Heartbeat=0
+[2025-11-21 18:48:05] CLUSTER: ================================================
+[2025-11-21 18:48:05] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:05] GOSSIP: Node node3 heartbeat increased: 357402 -> 357403
+[2025-11-21 18:48:05] GOSSIP: Node node4 heartbeat increased: 357399 -> 357400
+[2025-11-21 18:48:06] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:06] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:06] GOSSIP: Node node4 heartbeat increased: 357394 -> 357401
+[2025-11-21 18:48:06] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:06] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:06] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:06] GOSSIP: Checking member statuses
+[2025-11-21 18:48:06] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:06] GOSSIP: Node node4 is ALIVE (last seen 303.804875ms ago)
+[2025-11-21 18:48:06] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:06] ANTI_ENTROPY: Running scheduled anti-entropy sync
+[2025-11-21 18:48:06] GOSSIP: Node node3 is ALIVE (last seen -1.484333ms ago)
+[2025-11-21 18:48:06] ANTI_ENTROPY: Starting anti-entropy with peers: [node4 node2 node1 node3]
+[2025-11-21 18:48:06] GOSSIP: Node node1 is ALIVE (last seen -1.481958ms ago)
+[2025-11-21 18:48:06] ANTI_ENTROPY: Direct syncing with peer node4
+[2025-11-21 18:48:06] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:06] ANTI_ENTROPY: Starting direct sync with node node4
+[2025-11-21 18:48:06] CLUSTER: Self status: alive
+[2025-11-21 18:48:06] ANTI_ENTROPY: Directly syncing 0 keys with node4
+[2025-11-21 18:48:06] CLUSTER: Node node4: Status=alive, LastSeen=1.173375ms ago, Heartbeat=357401
+[2025-11-21 18:48:06] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node4
+[2025-11-21 18:48:06] CLUSTER: Node node3: Status=alive, LastSeen=1.535375ms ago, Heartbeat=357403
+[2025-11-21 18:48:06] ANTI_ENTROPY: Direct syncing with peer node1
+[2025-11-21 18:48:06] CLUSTER: Node node1: Status=alive, LastSeen=1.709334ms ago, Heartbeat=0
+[2025-11-21 18:48:06] ANTI_ENTROPY: Starting direct sync with node node1
+[2025-11-21 18:48:06] CLUSTER: ================================================
+[2025-11-21 18:48:06] ANTI_ENTROPY: Directly syncing 0 keys with node1
+[2025-11-21 18:48:06] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node1
+[2025-11-21 18:48:06] ANTI_ENTROPY: Direct syncing with peer node3
+[2025-11-21 18:48:06] ANTI_ENTROPY: Starting direct sync with node node3
+[2025-11-21 18:48:06] ANTI_ENTROPY: Directly syncing 0 keys with node3
+[2025-11-21 18:48:06] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node3
+[2025-11-21 18:48:06] ANTI_ENTROPY: Completed anti-entropy cycle
+[2025-11-21 18:48:06] GOSSIP: Node node4 heartbeat increased: 357401 -> 357402
+[2025-11-21 18:48:06] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:06] GOSSIP: Node node3 heartbeat increased: 357403 -> 357405
+[2025-11-21 18:48:07] GOSSIP: Node node4 heartbeat increased: 357402 -> 357403
+[2025-11-21 18:48:07] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:07] GOSSIP: Node node3 heartbeat increased: 357405 -> 357406
+[2025-11-21 18:48:07] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:07] GOSSIP: Checking member statuses
+[2025-11-21 18:48:07] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:07] GOSSIP: Node node4 is ALIVE (last seen 601.583µs ago)
+[2025-11-21 18:48:07] GOSSIP: Node node3 is ALIVE (last seen -969.042µs ago)
+[2025-11-21 18:48:07] GOSSIP: Node node1 is ALIVE (last seen -967.5µs ago)
+[2025-11-21 18:48:07] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:07] CLUSTER: Self status: alive
+[2025-11-21 18:48:07] CLUSTER: Node node4: Status=alive, LastSeen=1.001542ms ago, Heartbeat=357403
+[2025-11-21 18:48:07] CLUSTER: Node node3: Status=alive, LastSeen=1.182792ms ago, Heartbeat=357406
+[2025-11-21 18:48:07] CLUSTER: Node node1: Status=alive, LastSeen=1.31675ms ago, Heartbeat=0
+[2025-11-21 18:48:07] CLUSTER: ================================================
+[2025-11-21 18:48:07] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:07] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:07] GOSSIP: Node node4 heartbeat increased: 357397 -> 357404
+[2025-11-21 18:48:07] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:07] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:07] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:07] GOSSIP: Node node3 heartbeat increased: 357406 -> 357407
+[2025-11-21 18:48:08] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:08] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:08] GOSSIP: Node node4 heartbeat increased: 357398 -> 357405
+[2025-11-21 18:48:08] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:08] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:08] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:08] GOSSIP: Checking member statuses
+[2025-11-21 18:48:08] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:08] GOSSIP: Node node4 is ALIVE (last seen 306.770375ms ago)
+[2025-11-21 18:48:08] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:08] GOSSIP: Node node3 is ALIVE (last seen 306.080334ms ago)
+[2025-11-21 18:48:08] GOSSIP: Node node1 is ALIVE (last seen 306.078542ms ago)
+[2025-11-21 18:48:08] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:08] GOSSIP: Node node3 heartbeat increased: 357407 -> 357408
+[2025-11-21 18:48:08] CLUSTER: Self status: alive
+[2025-11-21 18:48:08] CLUSTER: Node node4: Status=alive, LastSeen=137.583µs ago, Heartbeat=357405
+[2025-11-21 18:48:08] CLUSTER: Node node3: Status=alive, LastSeen=972.834µs ago, Heartbeat=357408
+[2025-11-21 18:48:08] CLUSTER: Node node1: Status=alive, LastSeen=1.115542ms ago, Heartbeat=0
+[2025-11-21 18:48:08] CLUSTER: ================================================
+[2025-11-21 18:48:08] GOSSIP: Node node4 heartbeat increased: 357405 -> 357406
+[2025-11-21 18:48:08] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:08] GOSSIP: Node node3 heartbeat increased: 357408 -> 357409
+[2025-11-21 18:48:09] GOSSIP: Node node4 heartbeat increased: 357406 -> 357407
+[2025-11-21 18:48:09] GOSSIP: Checking member statuses
+[2025-11-21 18:48:09] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:09] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:09] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:09] GOSSIP: Node node4 is ALIVE (last seen 303.059667ms ago)
+[2025-11-21 18:48:09] GOSSIP: Node node3 is ALIVE (last seen 302.690833ms ago)
+[2025-11-21 18:48:09] GOSSIP: Node node1 is ALIVE (last seen 302.694333ms ago)
+[2025-11-21 18:48:09] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:09] CLUSTER: Self status: alive
+[2025-11-21 18:48:09] CLUSTER: Node node4: Status=alive, LastSeen=309.610459ms ago, Heartbeat=357407
+[2025-11-21 18:48:09] CLUSTER: Node node3: Status=alive, LastSeen=309.570541ms ago, Heartbeat=357409
+[2025-11-21 18:48:09] CLUSTER: Node node1: Status=alive, LastSeen=310.183958ms ago, Heartbeat=0
+[2025-11-21 18:48:09] CLUSTER: ================================================
+[2025-11-21 18:48:09] GOSSIP: Node node4 heartbeat increased: 357407 -> 357408
+[2025-11-21 18:48:09] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:09] GOSSIP: Node node3 heartbeat increased: 357409 -> 357411
+[2025-11-21 18:48:10] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:10] GOSSIP: Checking member statuses
+[2025-11-21 18:48:10] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:10] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:10] GOSSIP: Node node4 is ALIVE (last seen 492.618875ms ago)
+[2025-11-21 18:48:10] GOSSIP: Node node3 is ALIVE (last seen 493.298417ms ago)
+[2025-11-21 18:48:10] GOSSIP: Node node1 is ALIVE (last seen 492.62125ms ago)
+[2025-11-21 18:48:10] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:10] CLUSTER: Self status: alive
+[2025-11-21 18:48:10] CLUSTER: Node node4: Status=alive, LastSeen=503.673583ms ago, Heartbeat=357408
+[2025-11-21 18:48:10] CLUSTER: Node node3: Status=alive, LastSeen=504.730709ms ago, Heartbeat=357411
+[2025-11-21 18:48:10] CLUSTER: Node node1: Status=alive, LastSeen=504.410167ms ago, Heartbeat=0
+[2025-11-21 18:48:10] CLUSTER: ================================================
+[2025-11-21 18:48:10] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:10] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:10] GOSSIP: Node node3 heartbeat increased: 357411 -> 357413
+[2025-11-21 18:48:10] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:10] GOSSIP: Node node4 heartbeat increased: 357403 -> 357410
+[2025-11-21 18:48:10] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:10] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:11] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:11] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:11] GOSSIP: Node node4 heartbeat increased: 357404 -> 357411
+[2025-11-21 18:48:11] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:11] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:11] ANTI_ENTROPY: Running scheduled anti-entropy sync
+[2025-11-21 18:48:11] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:11] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:11] GOSSIP: Checking member statuses
+[2025-11-21 18:48:11] ANTI_ENTROPY: Starting anti-entropy with peers: [node4 node2 node1 node3]
+[2025-11-21 18:48:11] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:11] ANTI_ENTROPY: Direct syncing with peer node4
+[2025-11-21 18:48:11] ANTI_ENTROPY: Starting direct sync with node node4
+[2025-11-21 18:48:11] GOSSIP: Node node4 is ALIVE (last seen 308.691709ms ago)
+[2025-11-21 18:48:11] ANTI_ENTROPY: Directly syncing 0 keys with node4
+[2025-11-21 18:48:11] GOSSIP: Node node3 is ALIVE (last seen 308.150334ms ago)
+[2025-11-21 18:48:11] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node4
+[2025-11-21 18:48:11] GOSSIP: Node node1 is ALIVE (last seen 308.152417ms ago)
+[2025-11-21 18:48:11] ANTI_ENTROPY: Direct syncing with peer node1
+[2025-11-21 18:48:11] ANTI_ENTROPY: Starting direct sync with node node1
+[2025-11-21 18:48:11] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:11] ANTI_ENTROPY: Directly syncing 0 keys with node1
+[2025-11-21 18:48:11] CLUSTER: Self status: alive
+[2025-11-21 18:48:11] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node1
+[2025-11-21 18:48:11] CLUSTER: Node node4: Status=alive, LastSeen=319.691209ms ago, Heartbeat=357411
+[2025-11-21 18:48:11] GOSSIP: Node node3 heartbeat increased: 357413 -> 357414
+[2025-11-21 18:48:11] ANTI_ENTROPY: Direct syncing with peer node3
+[2025-11-21 18:48:11] CLUSTER: Node node3: Status=alive, LastSeen=197.333µs ago, Heartbeat=357413
+[2025-11-21 18:48:11] ANTI_ENTROPY: Starting direct sync with node node3
+[2025-11-21 18:48:11] CLUSTER: Node node1: Status=alive, LastSeen=1.090375ms ago, Heartbeat=0
+[2025-11-21 18:48:11] ANTI_ENTROPY: Directly syncing 0 keys with node3
+[2025-11-21 18:48:11] CLUSTER: ================================================
+[2025-11-21 18:48:11] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node3
+[2025-11-21 18:48:11] ANTI_ENTROPY: Completed anti-entropy cycle
+[2025-11-21 18:48:11] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:11] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:11] GOSSIP: Node node4 heartbeat increased: 357408 -> 357412
+[2025-11-21 18:48:11] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:11] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:11] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:12] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:12] GOSSIP: Checking member statuses
+[2025-11-21 18:48:12] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:12] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:12] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:12] GOSSIP: Node node4 was revived (recent activity detected)
+[2025-11-21 18:48:12] GOSSIP: Node node3 heartbeat increased: 357414 -> 357416
+[2025-11-21 18:48:12] GOSSIP: Node node4 is ALIVE (last seen 2.492156667s ago)
+[2025-11-21 18:48:12] GOSSIP: Node node4 heartbeat increased: 357408 -> 357413
+[2025-11-21 18:48:12] GOSSIP: STATUS CHANGE: Node node4 status changed from suspected to alive
+[2025-11-21 18:48:12] GOSSIP: Node node3 is ALIVE (last seen -8.481458ms ago)
+[2025-11-21 18:48:12] GOSSIP: Node node1 is ALIVE (last seen -8.479583ms ago)
+[2025-11-21 18:48:12] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:12] CLUSTER: Self status: alive
+[2025-11-21 18:48:12] CLUSTER: Node node4: Status=alive, LastSeen=2.220542ms ago, Heartbeat=357413
+[2025-11-21 18:48:12] CLUSTER: Node node3: Status=alive, LastSeen=2.5475ms ago, Heartbeat=357416
+[2025-11-21 18:48:12] CLUSTER: Node node1: Status=alive, LastSeen=2.888875ms ago, Heartbeat=0
+[2025-11-21 18:48:12] CLUSTER: ================================================
+[2025-11-21 18:48:12] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:12] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:12] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:12] GOSSIP: Node node4 heartbeat increased: 357408 -> 357414
+[2025-11-21 18:48:12] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:12] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:12] GOSSIP: Node node3 heartbeat increased: 357416 -> 357417
+[2025-11-21 18:48:13] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:13] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:13] GOSSIP: Node node4 heartbeat increased: 357408 -> 357414
+[2025-11-21 18:48:13] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:13] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:13] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:13] GOSSIP: Checking member statuses
+[2025-11-21 18:48:13] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:13] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:13] GOSSIP: Node node4 is ALIVE (last seen 304.865458ms ago)
+[2025-11-21 18:48:13] GOSSIP: Node node3 is ALIVE (last seen 304.251291ms ago)
+[2025-11-21 18:48:13] GOSSIP: Node node1 is ALIVE (last seen 304.254208ms ago)
+[2025-11-21 18:48:13] GOSSIP: Node node3 heartbeat increased: 357417 -> 357418
+[2025-11-21 18:48:13] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:13] CLUSTER: Self status: alive
+[2025-11-21 18:48:13] CLUSTER: Node node4: Status=alive, LastSeen=1.587792ms ago, Heartbeat=357414
+[2025-11-21 18:48:13] CLUSTER: Node node3: Status=alive, LastSeen=8.644334ms ago, Heartbeat=357418
+[2025-11-21 18:48:13] CLUSTER: Node node1: Status=alive, LastSeen=2.118042ms ago, Heartbeat=0
+[2025-11-21 18:48:13] CLUSTER: ================================================
+[2025-11-21 18:48:13] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:13] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:13] GOSSIP: Node node4 heartbeat increased: 357408 -> 357416
+[2025-11-21 18:48:13] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:13] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:13] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:13] GOSSIP: Node node3 heartbeat increased: 357418 -> 357419
+[2025-11-21 18:48:14] GOSSIP: Node node4 heartbeat increased: 357416 -> 357417
+[2025-11-21 18:48:14] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:14] GOSSIP: Checking member statuses
+[2025-11-21 18:48:14] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:14] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:14] GOSSIP: Node node4 is ALIVE (last seen 306.037542ms ago)
+[2025-11-21 18:48:14] GOSSIP: Node node3 is ALIVE (last seen 303.794958ms ago)
+[2025-11-21 18:48:14] GOSSIP: Node node1 is ALIVE (last seen 303.797417ms ago)
+[2025-11-21 18:48:14] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:14] CLUSTER: Self status: alive
+[2025-11-21 18:48:14] CLUSTER: Node node4: Status=alive, LastSeen=763.417µs ago, Heartbeat=357417
+[2025-11-21 18:48:14] CLUSTER: Node node3: Status=alive, LastSeen=1.041958ms ago, Heartbeat=357419
+[2025-11-21 18:48:14] CLUSTER: Node node1: Status=alive, LastSeen=1.242458ms ago, Heartbeat=0
+[2025-11-21 18:48:14] CLUSTER: ================================================
+[2025-11-21 18:48:14] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:14] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:14] GOSSIP: Node node4 heartbeat increased: 357411 -> 357418
+[2025-11-21 18:48:14] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:14] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:14] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:14] GOSSIP: Node node3 heartbeat increased: 357419 -> 357421
+[2025-11-21 18:48:15] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:15] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:15] GOSSIP: Node node4 heartbeat increased: 357412 -> 357419
+[2025-11-21 18:48:15] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:15] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:15] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:15] GOSSIP: Checking member statuses
+[2025-11-21 18:48:15] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:15] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:15] GOSSIP: Node node4 is ALIVE (last seen 311.528333ms ago)
+[2025-11-21 18:48:15] GOSSIP: Node node3 is ALIVE (last seen 310.849833ms ago)
+[2025-11-21 18:48:15] GOSSIP: Node node1 is ALIVE (last seen 310.848333ms ago)
+[2025-11-21 18:48:15] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:15] CLUSTER: Self status: alive
+[2025-11-21 18:48:15] CLUSTER: Node node4: Status=alive, LastSeen=321.834µs ago, Heartbeat=357419
+[2025-11-21 18:48:15] CLUSTER: Node node3: Status=alive, LastSeen=827.708µs ago, Heartbeat=357421
+[2025-11-21 18:48:15] GOSSIP: Node node3 heartbeat increased: 357421 -> 357422
+[2025-11-21 18:48:15] CLUSTER: Node node1: Status=alive, LastSeen=1.379375ms ago, Heartbeat=0
+[2025-11-21 18:48:15] CLUSTER: ================================================
+[2025-11-21 18:48:15] GOSSIP: Node node4 heartbeat increased: 357419 -> 357420
+[2025-11-21 18:48:15] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:16] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:16] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:16] GOSSIP: Node node4 heartbeat increased: 357414 -> 357421
+[2025-11-21 18:48:16] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:16] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:16] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:16] GOSSIP: Checking member statuses
+[2025-11-21 18:48:16] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:16] ANTI_ENTROPY: Running scheduled anti-entropy sync
+[2025-11-21 18:48:16] GOSSIP: Node node4 is ALIVE (last seen 305.947667ms ago)
+[2025-11-21 18:48:16] GOSSIP: Node node3 is ALIVE (last seen 300.995125ms ago)
+[2025-11-21 18:48:16] GOSSIP: Node node1 is ALIVE (last seen 300.996875ms ago)
+[2025-11-21 18:48:16] GOSSIP: Node node3 heartbeat increased: 357422 -> 357424
+[2025-11-21 18:48:16] ANTI_ENTROPY: Starting anti-entropy with peers: [node2 node1 node3 node4]
+[2025-11-21 18:48:16] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:16] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:16] ANTI_ENTROPY: Direct syncing with peer node1
+[2025-11-21 18:48:16] CLUSTER: Self status: alive
+[2025-11-21 18:48:16] ANTI_ENTROPY: Starting direct sync with node node1
+[2025-11-21 18:48:16] CLUSTER: Node node4: Status=alive, LastSeen=9.7485ms ago, Heartbeat=357421
+[2025-11-21 18:48:16] ANTI_ENTROPY: Directly syncing 0 keys with node1
+[2025-11-21 18:48:16] CLUSTER: Node node3: Status=alive, LastSeen=11.268667ms ago, Heartbeat=357424
+[2025-11-21 18:48:16] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node1
+[2025-11-21 18:48:16] CLUSTER: Node node1: Status=alive, LastSeen=10.946083ms ago, Heartbeat=0
+[2025-11-21 18:48:16] ANTI_ENTROPY: Direct syncing with peer node3
+[2025-11-21 18:48:16] CLUSTER: ================================================
+[2025-11-21 18:48:16] ANTI_ENTROPY: Starting direct sync with node node3
+[2025-11-21 18:48:16] ANTI_ENTROPY: Directly syncing 0 keys with node3
+[2025-11-21 18:48:16] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node3
+[2025-11-21 18:48:16] ANTI_ENTROPY: Direct syncing with peer node4
+[2025-11-21 18:48:16] ANTI_ENTROPY: Starting direct sync with node node4
+[2025-11-21 18:48:16] ANTI_ENTROPY: Directly syncing 0 keys with node4
+[2025-11-21 18:48:16] ANTI_ENTROPY: Direct sync complete: 0/0 keys sent to node4
+[2025-11-21 18:48:16] ANTI_ENTROPY: Completed anti-entropy cycle
+[2025-11-21 18:48:16] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:16] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:16] GOSSIP: Node node4 heartbeat increased: 357414 -> 357422
+[2025-11-21 18:48:16] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:16] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:16] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:16] GOSSIP: Node node3 heartbeat increased: 357424 -> 357425
+[2025-11-21 18:48:17] GOSSIP: Node node4 heartbeat increased: 357422 -> 357423
+[2025-11-21 18:48:17] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:17] GOSSIP: Checking member statuses
+[2025-11-21 18:48:17] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:17] GOSSIP: Node node4 is ALIVE (last seen 306.888667ms ago)
+[2025-11-21 18:48:17] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:17] GOSSIP: Node node3 is ALIVE (last seen 306.525625ms ago)
+[2025-11-21 18:48:17] GOSSIP: Node node1 is ALIVE (last seen 306.527417ms ago)
+[2025-11-21 18:48:17] GOSSIP: Node node3 heartbeat increased: 357425 -> 357426
+[2025-11-21 18:48:17] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:17] CLUSTER: Self status: alive
+[2025-11-21 18:48:17] CLUSTER: Node node4: Status=alive, LastSeen=525.25µs ago, Heartbeat=357423
+[2025-11-21 18:48:17] CLUSTER: Node node3: Status=alive, LastSeen=1.075584ms ago, Heartbeat=357426
+[2025-11-21 18:48:17] CLUSTER: Node node1: Status=alive, LastSeen=1.012916ms ago, Heartbeat=0
+[2025-11-21 18:48:17] CLUSTER: ================================================
+[2025-11-21 18:48:17] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:18] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:18] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:18] GOSSIP: Node node4 heartbeat increased: 357418 -> 357425
+[2025-11-21 18:48:18] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:18] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:18] GOSSIP: Checking member statuses
+[2025-11-21 18:48:18] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:18] GOSSIP: Checking member statuses. Current node: node2
+[2025-11-21 18:48:18] HINT_PROCESSOR: Processing hints on node node2
+[2025-11-21 18:48:18] GOSSIP: Node node4 is ALIVE (last seen 306.365292ms ago)
+[2025-11-21 18:48:18] GOSSIP: Node node3 is ALIVE (last seen 305.927958ms ago)
+[2025-11-21 18:48:18] GOSSIP: Node node1 is ALIVE (last seen 305.931917ms ago)
+[2025-11-21 18:48:18] CLUSTER: ======= CLUSTER STATE REPORT FROM node2 =======
+[2025-11-21 18:48:18] CLUSTER: Self status: alive
+[2025-11-21 18:48:18] CLUSTER: Node node4: Status=alive, LastSeen=314.09025ms ago, Heartbeat=357425
+[2025-11-21 18:48:18] CLUSTER: Node node3: Status=alive, LastSeen=314.031625ms ago, Heartbeat=357426
+[2025-11-21 18:48:18] CLUSTER: Node node1: Status=alive, LastSeen=314.391ms ago, Heartbeat=0
+[2025-11-21 18:48:18] CLUSTER: ================================================
+[2025-11-21 18:48:18] GOSSIP: Failed to contact node4 after 5 retries, marking as SUSPECTED
+[2025-11-21 18:48:18] GOSSIP: Node node4 has come back ONLINE, reconnecting hints
+[2025-11-21 18:48:18] GOSSIP: Node node4 heartbeat increased: 357420 -> 357426
+[2025-11-21 18:48:18] HINT_DELIVERY: Force reconnecting hints for node node4
+[2025-11-21 18:48:18] GOSSIP: Node node4 status changed: suspected -> alive
+[2025-11-21 18:48:18] GOSSIP: Sending gossip and incrementing heartbeat
+[2025-11-21 18:48:18] GOSSIP: Node node3 heartbeat increased: 357426 -> 357429
