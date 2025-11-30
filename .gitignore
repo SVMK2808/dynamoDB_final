@@ -1,0 +1,30 @@
+# Binaries and Executables
+backend/exec/
+backend/dynamo-db
+backend/dynamo-node
+backend/dynamoDB
+
+# Logs
+backend/logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Generated Reports and Graphs
+*.pdf
+*.png
