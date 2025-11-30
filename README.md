@@ -194,5 +194,5 @@ Access these while nodes are running (replace `<node-port>` with actual port):
 ## 📬 Contact
 
 Feel free to contribute or raise issues if you find bugs or improvements!
-Maintainer: *\[Nikhil Singh]*
+Maintainer: *\[Mohit Kumar]*
 License: MIT
